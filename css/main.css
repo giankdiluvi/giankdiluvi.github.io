@@ -41,11 +41,28 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.2em;
+    line-height: 1.4em;
+    color: #534E4E;
+    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 
 ul.posts li {
     font-size: 1.2em;
     line-height: 1.4em;
-    color: #615C5C;
+    color: #534E4E;
+    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
+}
+ol.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: #534E4E;
+    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
+}
+
+ol.posts li {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: #534E4E;
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
