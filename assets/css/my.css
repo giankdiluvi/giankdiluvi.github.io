@@ -1,3 +1,8 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
