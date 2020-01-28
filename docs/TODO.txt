@@ -1,0 +1,4 @@
+TODO:
+
+- Add thesis page
+- Change links in other projects (visually better to have icons)
