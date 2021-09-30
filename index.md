@@ -5,12 +5,11 @@ layout: default
 ## About
 
 
-I am a PhD student in the [Department of Statistics](https://www.stat.ubc.ca/)
-at the [University of British Columbia](https://www.ubc.ca/) (UBC),
-where I also completed my MSc.
+I am a PhD student in [statistics](https://www.stat.ubc.ca/)
+at [UBC](https://www.ubc.ca/), where I also completed my MSc.
 My supervisors are [Trevor Campbell](https://trevorcampbell.me/)
 and [Ben Bloem-Reddy](https://www.stat.ubc.ca/~benbr/).
-I did my BSc in Applied Mathematics at [ITAM](https://www.itam.mx/en)
+I did my BSc in applied math at [ITAM](https://www.itam.mx/en)
 under the supervision of
 [Ernesto Barrios](https://faculty.itam.mx/facultad/102320-ernesto-juvenal-barrios-zamudio).
 
@@ -35,7 +34,7 @@ You can find the slides
 and the pdf [here](http://hdl.handle.net/2429/79499)
 - [Apr 2021] I received the
 [graduate TA award](https://www.stat.ubc.ca/announcing-our-three-statistics-graduate-teaching-assistant-award-winners)
- from the Department of Statistics and I was also nominated for a
+ from the department of statistics and I was also nominated for a
  [Killam TA award](https://www.grad.ubc.ca/scholarships-awards-funding/killam-awards-fellowships)
 - [Mar 2021] I will be staying at UBC for my PhD starting in September 2021.
 I'm very happy to have received a
