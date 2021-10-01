@@ -43,3 +43,34 @@ I'm very happy to have received a
 [2020 SEC trainee research day](https://socialexposome.ubc.ca/news-events/events/aug-25-2020-trainee-research-day-2020).
 The slides are
 [here](https://docs.google.com/presentation/d/1NUL3BcXFptF92F6CSpS61qcplngs4R-zgNcTe3nGPqY/edit?usp=sharing)
+
+
+## Publications
+
+- **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
+University of British Columbia. (MSc thesis.) \
+<a href="http://hdl.handle.net/2429/79499">
+  <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
+</a> &emsp;
+<a href="https://github.com/ubc-bayes/mixinf">
+  <i class="fab fa-github" style="font-size:20px"></i> code
+</a> &emsp;
+<a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
+  <i class="fas fa-desktop" style="font-size:20px"></i> slides
+</a>  
+- **Diluvi, G.C.** (2019). How does it make you feel?
+*Significance, 16*(3), 26&ndash;29. \
+<a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01277.x">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i> publication
+</a> &emsp;
+<a href="https://github.com/GiankDiluvi/Sentiments_of_Sentimentality">
+  <i class="fab fa-github" style="font-size:20px"></i> code
+</a>
+- **Diluvi, G.C.** (2018). Bayesian design of experiments for generalized linear models.
+Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
+<a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
+  <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
+</a> &emsp;
+<a href="https://github.com/GiankDiluvi/BayesianDOE_Thesis">
+  <i class="fab fa-github" style="font-size:20px"></i> code
+</a>
