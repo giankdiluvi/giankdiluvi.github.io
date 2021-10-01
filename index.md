@@ -32,13 +32,16 @@ with theoretical guarantees that allow us to solve large-scale problems.
 You can find the slides
 [here](https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing)
 and the pdf [here](http://hdl.handle.net/2429/79499)
+
 - [Apr 2021] I received the
 [graduate TA award](https://www.stat.ubc.ca/announcing-our-three-statistics-graduate-teaching-assistant-award-winners)
  from the department of statistics and I was also nominated for a
  [Killam TA award](https://www.grad.ubc.ca/scholarships-awards-funding/killam-awards-fellowships)
+
 - [Mar 2021] I will be staying at UBC for my PhD starting in September 2021.
 I'm very happy to have received a
 [four year doctoral fellowship](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf)
+
 - [Nov 2020] I won the best master's presentation prize at the
 [2020 SEC trainee research day](https://socialexposome.ubc.ca/news-events/events/aug-25-2020-trainee-research-day-2020).
 The slides are
@@ -49,6 +52,16 @@ The slides are
 
 - **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
 University of British Columbia. (MSc thesis.) \
+ <a onclick="setClipboard('
+    @phdthesis{diluvi2021,
+      title={Locally-adaptive boosting variational inference},
+      school={University of British Columbia},
+      author={Gian Carlo Diluvi},
+      year={2021}
+    }
+    ')">
+  <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a> &emsp;
 <a href="http://hdl.handle.net/2429/79499">
   <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a> &emsp;
@@ -57,17 +70,42 @@ University of British Columbia. (MSc thesis.) \
 </a> &emsp;
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
-</a>  
+</a>
+
 - **Diluvi, G.C.** (2019). How does it make you feel?
 *Significance, 16*(3), 26&ndash;29. \
+<a onclick="setClipboard('
+  @article{diluvi2019,
+    author = {Gian Carlo Diluvi},
+    title = {How does it make you feel?},
+    journal = {Significance},
+    volume = {16},
+    number = {3},
+    pages = {26-29},
+    year = {2019}
+  }
+   ')">
+ <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a> &emsp;
 <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01277.x">
   <i class="fas fa-external-link-alt" style="font-size:20px"></i> publication
 </a> &emsp;
 <a href="https://github.com/GiankDiluvi/Sentiments_of_Sentimentality">
   <i class="fab fa-github" style="font-size:20px"></i> code
 </a>
+
 - **Diluvi, G.C.** (2018). Bayesian design of experiments for generalized linear models.
 Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
+<a onclick="setClipboard('
+   @phdthesis{diluvi2018,
+     title={Diseño {B}ayesiano de experimentos para modelos lineales generalizados},
+     school={Instituto Tecnológico Autónomo de México},
+     author={Gian Carlo Diluvi},
+     year={2018}
+   }
+   ')">
+ <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a> &emsp;
 <a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
   <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a> &emsp;

@@ -39,6 +39,18 @@
 
 
     <script src="https://kit.fontawesome.com/860705268c.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+      function setClipboard(value) {
+        var tempInput = document.createElement("input");
+        tempInput.style = "position: absolute; left: -1000px; top: -1000px";
+        tempInput.value = value;
+        document.body.appendChild(tempInput);
+        tempInput.select();
+        document.execCommand("copy");
+        document.body.removeChild(tempInput);
+      }
+    </script>
 
     <link rel="stylesheet" type="text/css" href="/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="Gian Carlo Diluvi - My personal webpage:" href="/feed.xml" />
@@ -130,28 +142,40 @@ with theoretical guarantees that allow us to solve large-scale problems.</p>
 <h2 id="news">News</h2>
 
 <ul>
-  <li>[Aug 2021] I presented my master’s thesis in the UBC Statistics seminar.
+  <li>
+    <p>[Aug 2021] I presented my master’s thesis in the UBC Statistics seminar.
 You can find the slides
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">here</a>
-and the pdf <a href="http://hdl.handle.net/2429/79499">here</a></li>
-  <li>[Apr 2021] I received the
+and the pdf <a href="http://hdl.handle.net/2429/79499">here</a></p>
+  </li>
+  <li>
+    <p>[Apr 2021] I received the
 <a href="https://www.stat.ubc.ca/announcing-our-three-statistics-graduate-teaching-assistant-award-winners">graduate TA award</a>
  from the department of statistics and I was also nominated for a
- <a href="https://www.grad.ubc.ca/scholarships-awards-funding/killam-awards-fellowships">Killam TA award</a></li>
-  <li>[Mar 2021] I will be staying at UBC for my PhD starting in September 2021.
+ <a href="https://www.grad.ubc.ca/scholarships-awards-funding/killam-awards-fellowships">Killam TA award</a></p>
+  </li>
+  <li>
+    <p>[Mar 2021] I will be staying at UBC for my PhD starting in September 2021.
 I’m very happy to have received a
-<a href="https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf">four year doctoral fellowship</a></li>
-  <li>[Nov 2020] I won the best master’s presentation prize at the
+<a href="https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf">four year doctoral fellowship</a></p>
+  </li>
+  <li>
+    <p>[Nov 2020] I won the best master’s presentation prize at the
 <a href="https://socialexposome.ubc.ca/news-events/events/aug-25-2020-trainee-research-day-2020">2020 SEC trainee research day</a>.
 The slides are
-<a href="https://docs.google.com/presentation/d/1NUL3BcXFptF92F6CSpS61qcplngs4R-zgNcTe3nGPqY/edit?usp=sharing">here</a></li>
+<a href="https://docs.google.com/presentation/d/1NUL3BcXFptF92F6CSpS61qcplngs4R-zgNcTe3nGPqY/edit?usp=sharing">here</a></p>
+  </li>
 </ul>
 
 <h2 id="publications">Publications</h2>
 
 <ul>
-  <li><strong>Diluvi, G.C.</strong> (2021). Locally-adaptive boosting variational inference.
+  <li>
+    <p><strong>Diluvi, G.C.</strong> (2021). Locally-adaptive boosting variational inference.
 University of British Columbia. (MSc thesis.) <br />
+ <a onclick="setClipboard('   @phdthesis{diluvi2021,     title={Locally-adaptive boosting variational inference},     school={University of British Columbia},     author={Gian Carlo Diluvi},     year={2021}   }   ')">
+<i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a>  
 <a href="http://hdl.handle.net/2429/79499">
 <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a>  
@@ -160,23 +184,34 @@ University of British Columbia. (MSc thesis.) <br />
 </a>  
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
 <i class="fas fa-desktop" style="font-size:20px"></i> slides
-</a></li>
-  <li><strong>Diluvi, G.C.</strong> (2019). How does it make you feel?
+</a></p>
+  </li>
+  <li>
+    <p><strong>Diluvi, G.C.</strong> (2019). How does it make you feel?
 <em>Significance, 16</em>(3), 26–29. <br />
+<a onclick="setClipboard(' @article{diluvi2019,   author = {Gian Carlo Diluvi},   title = {How does it make you feel?},   journal = {Significance},   volume = {16},   number = {3},   pages = {26-29},   year = {2019} }  ')">
+ <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a>  
 <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01277.x">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i> publication
 </a>  
 <a href="https://github.com/GiankDiluvi/Sentiments_of_Sentimentality">
 <i class="fab fa-github" style="font-size:20px"></i> code
-</a></li>
-  <li><strong>Diluvi, G.C.</strong> (2018). Bayesian design of experiments for generalized linear models.
+</a></p>
+  </li>
+  <li>
+    <p><strong>Diluvi, G.C.</strong> (2018). Bayesian design of experiments for generalized linear models.
 Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) <br />
+<a onclick="setClipboard('  @phdthesis{diluvi2018,    title={Diseño {B}ayesiano de experimentos para modelos lineales generalizados},    school={Instituto Tecnológico Autónomo de México},    author={Gian Carlo Diluvi},    year={2018}  }  ')">
+ <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+</a>  
 <a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
 <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a>  
 <a href="https://github.com/GiankDiluvi/BayesianDOE_Thesis">
 <i class="fab fa-github" style="font-size:20px"></i> code
-</a></li>
+</a></p>
+  </li>
 </ul>
 
         </div>
