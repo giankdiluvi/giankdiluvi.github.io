@@ -123,9 +123,13 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
 - STAT 203 statistical methods, fall 2019 @ UBC
 - EST 14102 probability II, spring and fall 2016 @ ITAM
 
+
+
 **Flexible learning**:
 an initiative that brings together open and vetted resources to help promote
 the teaching and learning of introductory statistics.
+
+There are the resources that I have developed:
 
 - First Bayes \
   <a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/FirstBayes/Beta-Binomial/" >
