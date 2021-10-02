@@ -116,6 +116,63 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
 
 ## Teaching
 
+**TAing**:
+- TA trainer, department of statistics, fall 2021 @ UBC
+- STAT 302 introduction to probability, spring 2020 @ UBC
+- STAT 200 elementary statistics for applications, spring 2020 @ UBC
+- STAT 203 statistical methods, fall 2019 @ UBC
+- EST 14102 probability II, spring and fall 2016 @ ITAM
+
+**Flexible learning**:
+an initiative that brings together open and vetted resources to help promote
+the teaching and learning of introductory statistics.
+
+- First Bayes \
+  <a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/FirstBayes/Beta-Binomial/" >
+    <i class="fas fa-chart-bar" style="font-size:20px"></i> beta-binomial dashboard
+  </a> &emsp;
+  <a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/FirstBayes/Normal-Normal/" >
+    <i class="fas fa-chart-bar" style="font-size:20px"></i> normal-normal dashboard
+  </a> &emsp;
+  <a href="https://github.com/GiankDiluvi/first-bayes-r" >
+    <i class="fab fa-github" style="font-size:24px"></i> code
+  </a> &emsp;
+
+- Power and sample size calculations \
+  <a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/Power/" >
+    <i class="fas fa-chart-bar" style="font-size:20px"></i> dashboard
+  </a> &emsp;
+  <a href="https://docs.google.com/presentation/d/1SbONqAg90xBF4fjRa5W73SI7Y4C5DUB0-Dg6oVTgdqc/edit?usp=sharing" >
+    <i class="fas fa-desktop" style="font-size:18px"></i> slides
+  </a> &emsp;
+  <a href="https://github.com/GiankDiluvi/power" >
+    <i class="fab fa-github" style="font-size:24px"></i> code
+  </a> &emsp;
+  <a href="https://statspace.elearning.ubc.ca/handle/123456789/333" >
+    <i class="fas fa-landmark" style="font-size:24px"></i> StatSpace
+  </a>
+
+
+- Effective data visualization with R \
+<a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/Effective-Data-Viz/" >
+  <i class="fas fa-chart-bar" style="font-size:20px"></i> dashboard
+</a> &emsp;
+<a href="https://github.com/UBC-DSCI/dataviz-r" >
+  <i class="fab fa-github" style="font-size:24px"></i> code
+</a> &emsp;
+<a href="https://statspace.elearning.ubc.ca/handle/123456789/332" >
+  <i class="fas fa-landmark" style="font-size:24px"></i> StatSpace
+</a>
+
+- Understanding type I errors, type II errors, and p-values \
+<a href="https://statspace.elearning.ubc.ca/handle/123456789/399" >
+  <i class="fas fa-landmark" style="font-size:24px"></i> StatSpace
+</a>
+
+- Distribution of the p-values under the null hypothesis of a one-sample z-test \
+<a href="https://statspace.elearning.ubc.ca/handle/123456789/400" >
+  <i class="fas fa-landmark" style="font-size:24px"></i> StatSpace
+</a>
 
 <br>
 <br>
