@@ -112,3 +112,13 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
 <a href="https://github.com/GiankDiluvi/BayesianDOE_Thesis">
   <i class="fab fa-github" style="font-size:20px"></i> code
 </a>
+
+
+## Teaching
+
+
+<br>
+<br>
+<br>
+<br>
+Copyright © Gian Carlo Di-Luvi Martinez, 2021
