@@ -50,6 +50,7 @@ The slides are
 
 ## Publications
 
+
 - **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
 University of British Columbia. (MSc thesis.) \
  <a onclick="setClipboard('
@@ -60,7 +61,7 @@ University of British Columbia. (MSc thesis.) \
       year={2021}
     }
     ')">
-  <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+  <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
 </a> &emsp;
 <a href="http://hdl.handle.net/2429/79499">
   <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
@@ -71,6 +72,9 @@ University of British Columbia. (MSc thesis.) \
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
+
+
+
 
 - **Diluvi, G.C.** (2019). How does it make you feel?
 *Significance, 16*(3), 26&ndash;29. \
@@ -85,7 +89,7 @@ University of British Columbia. (MSc thesis.) \
     year = {2019}
   }
    ')">
- <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+ <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
 </a> &emsp;
 <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01277.x">
   <i class="fas fa-external-link-alt" style="font-size:20px"></i> publication
@@ -104,7 +108,7 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
      year={2018}
    }
    ')">
- <i class="fas fa-copy" style="font-size:20px"></i> bibtex
+ <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
 </a> &emsp;
 <a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
   <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
