@@ -76,6 +76,8 @@ University of British Columbia. (MSc thesis.) \
 
 
 
+
+
 - **Diluvi, G.C.** (2019). How does it make you feel?
 *Significance, 16*(3), 26&ndash;29. \
 <a onclick="setClipboard('
@@ -133,7 +135,7 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
 an initiative that brings together open and vetted resources to help promote
 the teaching and learning of introductory statistics.
 
-There are the resources that I have developed:
+Here are the resources that I have developed:
 
 - First Bayes \
   <a href="https://shiny-apps.stat.ubc.ca/FlexibleLearning/FirstBayes/Beta-Binomial/" >
