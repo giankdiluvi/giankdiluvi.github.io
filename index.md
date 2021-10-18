@@ -184,6 +184,30 @@ Here are the resources that I have developed:
   <i class="fas fa-landmark" style="font-size:24px"></i> StatSpace
 </a>
 
+
+
+
+## Contact
+
+If you are interested in doing an MSc or PhD in statistics at UBC, reach out!
+I am happy to chat and help answer any questions you have.
+Don't forget to check out the
+[website of the UBC statistics grad student association](https://www.stat.ubc.ca/sgsa).
+
+Check my [UBC stats webpage](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
+for contact info.
+
+Latinx students: Canadá tiene una linda comunidad estadística latinx,
+tanto en Vancouver como en
+[Toronto](https://www.statistics.utoronto.ca/people/directories/all-faculty/vianey-leos-barajas).
+Si tienes dudas o quieres ayuda en tu solicitud a un programa de posgrado,
+¡contáctame!
+
+
+
+
+
+
 <br>
 <br>
 <br>
