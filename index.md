@@ -13,8 +13,11 @@ I did my BSc in applied math at [ITAM](https://www.itam.mx/en)
 under the supervision of
 [Ernesto Barrios](https://faculty.itam.mx/facultad/102320-ernesto-juvenal-barrios-zamudio).
 
-Before coming to UBC, I worked at [Pfizer](https://www.pfizer.com/)
-and also in the quick counts' committee of Mexico's 2018 general election.
+Before coming to UBC, I was a business analytics coordinator
+at [Pfizer](https://www.pfizer.com/).
+I also worked as a research assistant for
+[Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez)
+in the quick counts' committee of Mexico's 2018 general election.
 
 In my free time, I enjoy road biking around Vancouver,
 reading sci-fi and fantasy novels,
