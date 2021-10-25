@@ -18,6 +18,7 @@ at [Pfizer](https://www.pfizer.com/).
 I also worked as a research assistant for
 [Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez)
 in the quick counts' committee of Mexico's 2018 general election.
+Check [this webpage](./quickcounts) if you're interested.
 
 In my free time, I enjoy road biking around Vancouver,
 reading sci-fi and fantasy novels,
