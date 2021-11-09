@@ -18,16 +18,17 @@ Nine statisticians were invited to form the so-called quick counts committee.
 
 
 
-A quick count is a statistical method to estimate the results of an election,
+A quick count is a statistical method to estimate the results of an election
 the day it takes place.
-However, unlike an exit poll, quick count is based on information
+However, unlike an exit poll, a quick count is based on information
 reported directly from polling station officers,
 thereby making the data more reliable.
 
 
 I worked with committee member
 [Dr. Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez)
-as his research assistant for this project, along with Gerardo Orantes.
+as his research assistant for this project, along with
+[Gerardo Orantes](https://education.rstudio.com/trainers/people/orantes_jordan+gerardo/).
 We devised the sampling design for the state of Chiapas,
 and estimated the results for the governorship elections in
 Chiapas, Guanajuato, and Morelos.
