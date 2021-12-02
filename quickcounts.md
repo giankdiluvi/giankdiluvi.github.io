@@ -156,4 +156,4 @@ For our team, I also included biplots of the posterior distribution of the estim
 <br>
 <br>
 <br>
-Copyright © Gian Carlo Di-Luvi Martinez, 2021
+Copyright © Gian Carlo Diluvi, 2021

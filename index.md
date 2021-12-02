@@ -216,4 +216,4 @@ Si tienes dudas o quieres ayuda en tu solicitud a un programa de posgrado,
 <br>
 <br>
 <br>
-Copyright © Gian Carlo Di-Luvi Martinez, 2021
+Copyright © Gian Carlo Diluvi, 2021
