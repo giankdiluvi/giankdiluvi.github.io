@@ -37,7 +37,7 @@ with theoretical guarantees that allow us to solve large-scale problems.
   will be co-chairing [WNAR](https://wnarofibs.wildapricot.org/)'s
   Q&A session with
   [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/?_ga=2.246370628.1778529980.1638467099-472124516.1632348184).
-  Register [here](https://www.isi-web.org/component/jevents/eventdetail/188/-/virtual-statistics-career-series-for-students?Itemid=1).
+  Register [here](https://www.isi-web.org/component/jevents/eventdetail/188/-/virtual-statistics-career-series-for-students?Itemid=1)
 
 - [Aug 2021] I presented my master's thesis in the UBC Statistics seminar.
 You can find the slides
