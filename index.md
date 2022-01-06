@@ -133,8 +133,11 @@ Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
 
 ## Teaching
 
+**Mentorship**:
+- TA trainer, department of statistics @ UBC
+
 **TAing**:
-- TA trainer, department of statistics, fall 2021 @ UBC
+- STAT 450 case studies in statistics, spring 2022 @ UBC
 - STAT 302 introduction to probability, spring 2020 @ UBC
 - STAT 200 elementary statistics for applications, spring 2020 @ UBC
 - STAT 203 statistical methods, fall 2019 @ UBC
