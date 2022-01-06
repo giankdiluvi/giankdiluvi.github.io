@@ -150,10 +150,3 @@ For our team, I also included biplots of the posterior distribution of the estim
 <p align="center">
   <img src="/images/quickcount_dashboard_logo.png" width="800px"/>
 </p>
-
-
-<br>
-<br>
-<br>
-<br>
-Copyright © Gian Carlo Diluvi, 2021

@@ -213,14 +213,3 @@ tanto en Vancouver como en
 [Toronto](https://www.statistics.utoronto.ca/people/directories/all-faculty/vianey-leos-barajas).
 Si tienes dudas o quieres ayuda en tu solicitud a un programa de posgrado,
 ¡contáctame!
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-Copyright © Gian Carlo Diluvi, 2021
