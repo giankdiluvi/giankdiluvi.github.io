@@ -65,7 +65,7 @@ The slides are
 - **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
 University of British Columbia. (MSc thesis.) \
  <a onclick="setClipboard('
-    @phdthesis{diluvi2021,
+    @mastersthesis{diluvi2021,
       title={Locally-adaptive boosting variational inference},
       school={University of British Columbia},
       author={Gian Carlo Diluvi},
@@ -83,9 +83,6 @@ University of British Columbia. (MSc thesis.) \
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
-
-
-
 
 
 
