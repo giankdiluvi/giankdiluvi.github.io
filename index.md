@@ -200,7 +200,7 @@ Here are the resources that I have developed:
 
 ## Contact
 
-If you are interested in doing an MSc or PhD in statistics at UBC, reach out!
+If you are interested in doing an MSc or a PhD in statistics at UBC, reach out!
 I am happy to chat and help answer any questions you have.
 Don't forget to check out the
 [website of the UBC statistics grad student association](https://www.stat.ubc.ca/sgsa).
