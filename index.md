@@ -29,6 +29,11 @@ and cooking fresh pasta.
 
 I am mostly interested in developing algorithms for Bayesian inference
 with theoretical guarantees that allow us to solve large-scale problems.
+Recently, I have also been thinking about scalable causal inference
+and optimal transport.
+I am also interested in statistical education,
+and particularly in finding ways to improve and expand
+the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
@@ -77,9 +82,11 @@ University of British Columbia. (MSc thesis.) \
 <a href="http://hdl.handle.net/2429/79499">
   <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a> &emsp;
+<!--
 <a href="https://github.com/ubc-bayes/mixinf">
   <i class="fab fa-github" style="font-size:20px"></i> code
-</a> &emsp;
+</a>
+--> &emsp;
 <a href="https://docs.google.com/presentation/d/1vmuFhyEwc5MepkgixaMdP3lb3AN3ZSAm6oDvKcAMr_8/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
