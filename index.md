@@ -29,14 +29,22 @@ and cooking fresh pasta.
 
 I am mostly interested in developing algorithms for Bayesian inference
 with theoretical guarantees that allow us to solve large-scale problems.
-Recently, I have also been thinking about scalable causal inference
-and optimal transport.
+While I thoroughly enjoy methodological developments,
+I strive to always have a specific real-world problem or problems in mind.
+
 I am also interested in statistical education,
 and particularly in finding ways to improve and expand
 the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
+- [May 2022] If you're interested in pursuing statistics graduate studies at UBC,
+  join me in the "Meet a PhD student" section of the
+  [SSC's student conference](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference)
+  on Saturday, May 28.
+
+- [Apr 2022] I will be the graduate student representative of UBC statistics.
+  Check out our website [here](https://www.stat.ubc.ca/sgsa).
 - [Dec 2021] [Nikola Surjanovic](https://nikola-sur.netlify.app/),
   [Jennifer McNichol](https://jmcnichol.github.io/), and I
   will be co-chairing [WNAR](https://wnarofibs.wildapricot.org/)'s
