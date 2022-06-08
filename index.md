@@ -41,10 +41,10 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 - [May 2022] If you're interested in pursuing statistics graduate studies at UBC,
   join me in the "Meet a PhD student" section of the
   [SSC's student conference](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference)
-  on Saturday, May 28.
+  on May 28
 
 - [Apr 2022] I will be the graduate student representative of UBC statistics.
-  Check out our website [here](https://www.stat.ubc.ca/sgsa).
+  Check out our website [here](https://www.stat.ubc.ca/sgsa)
 - [Dec 2021] [Nikola Surjanovic](https://nikola-sur.netlify.app/),
   [Jennifer McNichol](https://jmcnichol.github.io/), and I
   will be co-chairing [WNAR](https://wnarofibs.wildapricot.org/)'s
