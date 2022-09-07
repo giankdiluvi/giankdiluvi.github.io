@@ -30,7 +30,7 @@ and cooking fresh pasta.
 I am mostly interested in developing algorithms for Bayesian inference
 with theoretical guarantees that allow us to solve large-scale problems.
 While I thoroughly enjoy methodological developments,
-I strive to always have a specific real-world problem or problems in mind.
+I strive to always have a specific real-world problem(s) in mind.
 
 I am also interested in statistical education,
 and particularly in finding ways to improve and expand
