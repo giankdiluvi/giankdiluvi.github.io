@@ -82,13 +82,17 @@ The slides are
 
 ## Publications
 
+
+**Peer-reviewed**
+
+
 - Structured, interactive resources for teaching Bayesian inference\
 <span style="color:grey;">
   **Gian Carlo Diluvi**, Bruce Dunham, Nancy Heckman, Melissa Lee,
   Rodolfo Lourenzutti
 </span>\
 <span style="color:grey;">
-  International Conference on Teaching Statistics, 2022
+  International Conference on Teaching Statistics, 2022 (accepted)
 </span>\
  <a onclick="setClipboard('
     @inproceedings{diluvi2022icots,
@@ -101,6 +105,10 @@ The slides are
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
 </a>
 
+
+
+
+**Theses**
 
 - Locally-adaptive boosting variational inference\
 <span style="color:grey;">
@@ -130,6 +138,32 @@ The slides are
 </a>
 
 
+- Bayesian design of experiments for generalized linear models\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**
+</span>\
+<span style="color:grey;">
+  Instituto Tecnológico Autónomo de México (ITAM), 2018 (BSc thesis)
+</span>\
+<a onclick="setClipboard('
+   @phdthesis{diluvi2018,
+     title={Diseño {B}ayesiano de experimentos para modelos lineales generalizados},
+     school={Instituto Tecnológico Autónomo de México},
+     author={Gian Carlo Diluvi},
+     year={2018}
+   }
+   ')">
+ <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a> &emsp;
+<a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
+  <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
+</a> &emsp;
+<a href="https://github.com/GiankDiluvi/BayesianDOE_Thesis">
+  <i class="fab fa-github" style="font-size:20px"></i> code
+</a>
+
+
+**Others**
 
 - How does it make you feel?\
 <span style="color:grey;">
@@ -155,30 +189,6 @@ The slides are
   <i class="fas fa-external-link-alt" style="font-size:20px"></i> publication
 </a> &emsp;
 <a href="https://github.com/GiankDiluvi/Sentiments_of_Sentimentality">
-  <i class="fab fa-github" style="font-size:20px"></i> code
-</a>
-
-- Bayesian design of experiments for generalized linear models\
-<span style="color:grey;">
-  **Gian Carlo Diluvi**
-</span>\
-<span style="color:grey;">
-  Instituto Tecnológico Autónomo de México (ITAM), 2018 (BSc thesis)
-</span>\
-<a onclick="setClipboard('
-   @phdthesis{diluvi2018,
-     title={Diseño {B}ayesiano de experimentos para modelos lineales generalizados},
-     school={Instituto Tecnológico Autónomo de México},
-     author={Gian Carlo Diluvi},
-     year={2018}
-   }
-   ')">
- <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
-</a> &emsp;
-<a href="docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf">
-  <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
-</a> &emsp;
-<a href="https://github.com/GiankDiluvi/BayesianDOE_Thesis">
   <i class="fab fa-github" style="font-size:20px"></i> code
 </a>
 
