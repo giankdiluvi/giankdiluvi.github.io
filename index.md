@@ -47,7 +47,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   [SSC's student conference](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference)
   on May 28
   -->
-  
+
 - [Apr 2022] I will be the graduate student representative of UBC statistics.
   Check out our website [here](https://www.stat.ubc.ca/sgsa)
 
@@ -82,9 +82,14 @@ The slides are
 
 ## Publications
 
-- **Diluvi, G.C.**, Dunham, B., Heckman, N., Lee, M., and Lourenzutti, R.
- (2022). Structured, interactive resources for teaching Bayesian inference.
-In *International Conference on Teaching Statistics*. \
+- Structured, interactive resources for teaching Bayesian inference\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**, Bruce Dunham, Nancy Heckman, Melissa Lee,
+  Rodolfo Lourenzutti
+</span>\
+<span style="color:grey;">
+  International Conference on Teaching Statistics, 2022
+</span>\
  <a onclick="setClipboard('
     @inproceedings{diluvi2022icots,
       title={Structured, interactive resources for teaching {B}ayesian inference},
@@ -97,8 +102,13 @@ In *International Conference on Teaching Statistics*. \
 </a>
 
 
-- **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
-University of British Columbia. (MSc thesis.) \
+- Locally-adaptive boosting variational inference\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**
+</span>\
+<span style="color:grey;">
+  University of British Columbia, 2021 (MSc thesis)
+</span>\
  <a onclick="setClipboard('
     @mastersthesis{diluvi2021,
       title={Locally-adaptive boosting variational inference},
@@ -121,8 +131,13 @@ University of British Columbia. (MSc thesis.) \
 
 
 
-- **Diluvi, G.C.** (2019). How does it make you feel?
-*Significance, 16*(3), 26&ndash;29. \
+- How does it make you feel?\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**
+</span>\
+<span style="color:grey;">
+  Significance, 2019
+</span>\
 <a onclick="setClipboard('
   @article{diluvi2019,
     author = {Gian Carlo Diluvi},
@@ -143,8 +158,13 @@ University of British Columbia. (MSc thesis.) \
   <i class="fab fa-github" style="font-size:20px"></i> code
 </a>
 
-- **Diluvi, G.C.** (2018). Bayesian design of experiments for generalized linear models.
-Instituto Tecnológico Autónomo de México (ITAM). (BSc thesis.) \
+- Bayesian design of experiments for generalized linear models\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**
+</span>\
+<span style="color:grey;">
+  Instituto Tecnológico Autónomo de México (ITAM), 2018 (BSc thesis)
+</span>\
 <a onclick="setClipboard('
    @phdthesis{diluvi2018,
      title={Diseño {B}ayesiano de experimentos para modelos lineales generalizados},
