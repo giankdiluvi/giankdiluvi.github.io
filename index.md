@@ -38,19 +38,27 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
+- [Sept 2022] Our paper on using structured and interactive resources to
+teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
+
+<!--
 - [May 2022] If you're interested in pursuing statistics graduate studies at UBC,
   join me in the "Meet a PhD student" section of the
   [SSC's student conference](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference)
   on May 28
-
+  -->
+  
 - [Apr 2022] I will be the graduate student representative of UBC statistics.
   Check out our website [here](https://www.stat.ubc.ca/sgsa)
+
+<!--
 - [Dec 2021] [Nikola Surjanovic](https://nikola-sur.netlify.app/),
   [Jennifer McNichol](https://jmcnichol.github.io/), and I
   will be co-chairing [WNAR](https://wnarofibs.wildapricot.org/)'s
   Q&A session with
   [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/?_ga=2.246370628.1778529980.1638467099-472124516.1632348184).
   Register [here](https://www.isi-web.org/component/jevents/eventdetail/188/-/virtual-statistics-career-series-for-students?Itemid=1)
+  -->
 
 - [Aug 2021] I presented my master's thesis in the UBC Statistics seminar.
 You can find the slides
@@ -73,6 +81,20 @@ The slides are
 
 
 ## Publications
+
+- **Diluvi, G.C.**, Dunham, B., Heckman, N., Lee, M., and Lourenzutti, R.
+ (2022). Structured, interactive resources for teaching Bayesian inference.
+In *International Conference on Teaching Statistics*. \
+ <a onclick="setClipboard('
+    @inproceedings{diluvi2022icots,
+      title={Structured, interactive resources for teaching {B}ayesian inference},
+      author={\{Gian Carlo\} Diluvi and Bruce Dunham and Nancy Heckman and Melissa Lee and Rodolfo Lourenzutti},
+      booktitle={International Conference on Teaching Statistics},
+      year={2022}
+    }
+    ')">
+  <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a>
 
 
 - **Diluvi, G.C.** (2021). Locally-adaptive boosting variational inference.
