@@ -103,6 +103,9 @@ The slides are
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a> &emsp;
+<a href="https://docs.google.com/presentation/d/1fU4_ImB5fSBoSP6pKO2gT2euuq-_21L0CDanpbcJTWU/edit?usp=sharing">
+  <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
 
 
