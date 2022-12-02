@@ -92,7 +92,7 @@ The slides are
   Rodolfo Lourenzutti
 </span>\
 <span style="color:grey;">
-  International Conference on Teaching Statistics, 2022 (accepted)
+  International Conference on Teaching Statistics, 2022
 </span>\
  <a onclick="setClipboard('
     @inproceedings{diluvi2022icots,
@@ -103,6 +103,9 @@ The slides are
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a> &emsp;
+<a href="http://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_309_DILUVI.pdf?1669865554">
+  <i class="fas fa-file-pdf" style="font-size:20px"></i> pdf
 </a> &emsp;
 <a href="https://docs.google.com/presentation/d/1fU4_ImB5fSBoSP6pKO2gT2euuq-_21L0CDanpbcJTWU/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
