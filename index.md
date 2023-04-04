@@ -85,7 +85,6 @@ The slides are
 
 **Peer-reviewed**
 
-
 - Structured, interactive resources for teaching Bayesian inference\
 <span style="color:grey;">
   **Gian Carlo Diluvi**, Bruce Dunham, Nancy Heckman, Melissa Lee,
@@ -110,6 +109,29 @@ The slides are
 <a href="https://docs.google.com/presentation/d/1fU4_ImB5fSBoSP6pKO2gT2euuq-_21L0CDanpbcJTWU/edit?usp=sharing">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
+
+
+
+
+**Preprints**
+
+- Using online student focus groups in the development of new educational resources\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**, Sonja Isberg, Bruce Dunham, Nancy Heckman, Melissa Lee
+</span>\
+ <a onclick="setClipboard('
+    @article{diluvi2023onlinefg,
+      title={Using online student focus groups in the development of new educational resources,
+      author={\{Gian Carlo\} Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
+      journal={arXiv:2304.00149},
+      year={2023}
+    }
+    ')">
+  <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a> &emsp;
+<a href="https://arxiv.org/abs/2304.00149">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i> arXiv
+</a> 
 
 
 
