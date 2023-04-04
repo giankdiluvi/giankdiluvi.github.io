@@ -38,6 +38,10 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
+- [Apr 2023] New [preprint](https://arxiv.org/abs/2304.00149) 
+on a new fully-online methodology for assessing educational
+resources in development!
+
 - [Sept 2022] Our paper on using structured and interactive resources to
 teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 
