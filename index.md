@@ -38,9 +38,9 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
-- [Aug 2023] New [preprint](https://arxiv.org/abs/2308.15613) 
+- [Jan 2024] Our [paper](https://arxiv.org/abs/2308.15613) 
 on learning discrete distributions with MCMC-inspired 
-variational flows!
+variational flows has been accepted at AISTATS!
 
 
 - [Apr 2023] New [preprint](https://arxiv.org/abs/2304.00149) 
@@ -90,18 +90,21 @@ The slides are
 
 ## Publications
 
-**Preprints**
+**Peer-reviewed**
 
 - Mixed variational flows for discrete variables\
 <span style="color:grey;">
-  **Gian Carlo Diluvi**, Trevor Campbell, Benjamin Bloem-Reddy
+  **Gian Carlo Diluvi**, Benjamin Bloem-Reddy, and Trevor Campbell
+</span>\
+<span style="color:grey;">
+  International Conference on Artificial Intelligence and Statistics, 2024
 </span>\
  <a onclick="setClipboard('
-    @article{diluvi2023madmix,
-      title={Mixed variational flows for discrete variables,
+    @inproceedings{diluvi2024madmix,
+      title={Mixed variational flows for discrete variables},
       author={\{Gian Carlo\} Diluvi and Trevor Campbell and Benjamin Bloem-Reddy},
-      journal={arXiv:2308.15613},
-      year={2023}
+      booktitle={International Conference on Artificial Intelligence and Statistics},
+      year={2024}
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
@@ -112,26 +115,6 @@ The slides are
 <a href="./docs/madmix/index.html">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
-
-- Using online student focus groups in the development of new educational resources\
-<span style="color:grey;">
-  **Gian Carlo Diluvi**, Sonja Isberg, Bruce Dunham, Nancy Heckman, Melissa Lee
-</span>\
- <a onclick="setClipboard('
-    @article{diluvi2023onlinefg,
-      title={Using online student focus groups in the development of new educational resources,
-      author={\{Gian Carlo\} Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
-      journal={arXiv:2304.00149},
-      year={2023}
-    }
-    ')">
-  <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
-</a> &emsp;
-<a href="https://arxiv.org/abs/2304.00149">
-  <i class="fas fa-external-link-alt" style="font-size:20px"></i> arXiv
-</a> 
-
-**Peer-reviewed**
 
 - Structured, interactive resources for teaching Bayesian inference\
 <span style="color:grey;">
@@ -159,7 +142,25 @@ The slides are
 </a>
 
 
+**Preprints**
 
+- Using online student focus groups in the development of new educational resources\
+<span style="color:grey;">
+  **Gian Carlo Diluvi**\*, Sonja Isberg\*, Bruce Dunham, Nancy Heckman, Melissa Lee
+</span>\
+ <a onclick="setClipboard('
+    @article{diluvi2023onlinefg,
+      title={Using online student focus groups in the development of new educational resources},
+      author={\{Gian Carlo\} Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
+      journal={arXiv:2304.00149},
+      year={2023}
+    }
+    ')">
+  <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
+</a> &emsp;
+<a href="https://arxiv.org/abs/2304.00149">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i> arXiv
+</a> 
 
 **Theses**
 
