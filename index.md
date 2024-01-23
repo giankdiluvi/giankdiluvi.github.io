@@ -40,14 +40,16 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 - [Jan 2024] Our [paper](https://arxiv.org/abs/2308.15613) 
 on learning discrete distributions with MCMC-inspired 
-variational flows has been accepted at AISTATS!
+variational flows has been accepted at [AISTATS](https://virtual.aistats.org/)!
 
 
 - [Apr 2023] New [preprint](https://arxiv.org/abs/2304.00149) 
 on a new fully-online methodology for assessing educational
 resources in development!
 
-- [Sept 2022] Our paper on using structured and interactive resources to
+- [Sept 2022] Our 
+[paper](https://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_309_DILUVI.pdf?1669865554) 
+on using structured and interactive resources to
 teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 
 <!--
