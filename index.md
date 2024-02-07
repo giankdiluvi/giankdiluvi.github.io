@@ -15,14 +15,17 @@ under the supervision of
 
 Before coming to UBC, I was a business analytics coordinator
 at [Pfizer](https://www.pfizer.com/).
-I also worked as a research assistant for
-[Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez)
-in the quick counts' committee of Mexico's 2018 general election.
+I was also part of the quick counts team during Mexico's 2018 presidential election,
+working as a research assistant for
+[Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez).
 Check [this webpage](./quickcounts) if you're interested.
 
-In my free time, I enjoy road biking around Vancouver,
-reading sci-fi and fantasy novels,
-and cooking fresh pasta.
+In my free time, I enjoy road cycling around Vancouver
+with [Gruppetto](https://www.strava.com/clubs/1144698),
+as well as running and hiking (who in Vancouver doesn't?).
+I also like reading sci-fi novels and, recently, 
+contemporary female Latin American writers
+(thanks mainly to my wife [Sarah](https://sarahrevilla.github.io/)).
 
 
 ## Research interests
