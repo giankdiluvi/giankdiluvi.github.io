@@ -68,7 +68,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   International Conference on Artificial Intelligence and Statistics, 2024
 </span>\
  <a onclick="setClipboard('
-    @inproceedings{diluvi2024madmix,title={Mixed variational flows for discrete variables},author={\{Gian Carlo\} Diluvi and Trevor Campbell and Benjamin Bloem-Reddy},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
+    @inproceedings{diluvi2024madmix,title={Mixed variational flows for discrete variables},author={\{Gian Carlo\} Diluvi and Benjamin Bloem-Reddy and Trevor Campbell},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
