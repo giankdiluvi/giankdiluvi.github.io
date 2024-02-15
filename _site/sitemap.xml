@@ -10,6 +10,9 @@
 <loc>http://localhost:4000/quickcounts/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/yvr/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/docs/2018_gian-carlo-diluvi_bayesian-dox-glms.pdf</loc>
 <lastmod>2018-10-25T00:08:58-07:00</lastmod>
 </url>
