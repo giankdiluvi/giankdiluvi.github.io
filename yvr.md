@@ -54,4 +54,16 @@ Their milkshakes are insane if that's your kind of thing.
 in my opinion, *very* overrated.
 Jam always has a line and their bennies are just... not great?
 Their sweet stuff servings are huge, though&mdash;pancakes the size of a cake.
-Fable is also very popular but I think it's just... okay. 
+Fable is also very popular but I think it's just... okay.
+
+**Mexican**.
+Listen. If you want the real Mexican experience,
+you probably won't get it in Vancouver.
+But that doesn't mean there aren't great places.
+But beware: for every good place there seem to be many bad ones.
+- Machete. My favorite around. Their signature dish is huge and tastes like... home.
+- Tamaly. Highly recommend their brunch, which has many classic Mexican dishes.
+- Lucha Libre. Good tacos&mdash;I particularly enjoyed their suadero.
+- Toloache. Also a good option. Their tortilla soup is great.
+- Margaritas. Surprisingly good.
+- Avoid: La Taquería, 
