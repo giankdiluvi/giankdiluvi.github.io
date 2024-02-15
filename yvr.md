@@ -5,6 +5,15 @@ layout: plain
 
 Vancouver is a beautiful city! 
 
+## The outdoors
+
+**Hikes**.
+
+**Parks**.
+
+**Others**.
+
+## Museums
 
 ## Food
 
