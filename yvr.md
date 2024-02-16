@@ -51,6 +51,13 @@ Sunset beach too. Third beach if you want to walk.
 - Near Kits: Kits beach, Jericho beach, Spanish Banks. 
 - Wreck beach at UBC. Clothing optional. Amazing sunsets.
 
+**Others**.
+- Cycling. Vancouver is an amazing place to bike around.
+You can get a Mobi bike
+or rent a better bike near Stanley Park.
+I recommend the 11km loop around Stanely.
+Totally flat and very scenic.
+
 ## Museums and galleries
 - Museum of Anthropology at UBC. My favorite. Highly recommend.
 - Beaty Biodiversity Museum at UBC. Has the largest blue whale in North America.
@@ -58,13 +65,6 @@ Sunset beach too. Third beach if you want to walk.
 - Science World. Pretty fun.
 - Art Gallery. 
 - Polygon Gallery.
-
-**Others**.
-- Cycling. Vancouver is an amazing place to bike around.
-You can get a Mobi bike
-or rent a better bike near Stanley Park.
-I recommend the 11km loop around Stanely.
-Totally flat and very scenic.
 
 ## Food
 
