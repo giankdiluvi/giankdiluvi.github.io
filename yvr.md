@@ -43,9 +43,10 @@ There's an aviarium at the top,
 and also really nice views of the city.
 
 **Gardens**.
-- Nitobe Memorial Garden at UBC. Please go.
+- Nitobe Memorial Garden at UBC.
+Gorgeous Japanese garden. Please go.
 - UBC botanical garden.
-- Rose garden at UBC.
+- Rose garden at UBC. Beautiful ocean and mountain views.
 - Van Dusen botanical garden. They have a maze!
 
 **Beaches**.
@@ -64,17 +65,16 @@ Totally flat and very scenic.
 ## Museums and galleries
 - Museum of Anthropology at UBC. My favorite. Highly recommend.
 - Beaty Biodiversity Museum at UBC. Has the largest blue whale in North America.
-- Museum of Vancouver.
+- Museum of Vancouver. It's okay.
 - Science World. Pretty fun.
-- Art Gallery. 
-- Polygon Gallery.
+- Art Gallery. People say it's overrated.
+- Polygon Gallery. Rotates frequently, but I like it. Go for coffee to Nemesis!
 
 
 ## Food
 
 **Ramen**.
-The ramen scene in Vancouver is insanely good,
-and usually cheaper than other cuisines.
+The ramen scene in Vancouver is insanely good.
 You will probably not go wrong no matter where you go,
 but here are some options that I have tried and liked:
 - Maruhachi. They have a chicken broth; probably my goto ramen around. 
