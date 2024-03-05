@@ -3,7 +3,10 @@ layout: plain
 ---
 # Things to do in Vancouver
 
-Vancouver is a beautiful city! 
+I often get asked for recommendations
+for things to do/eat in Vancouver,
+so I decided to just compile a list of my favorites here.
+I hope it's useful!
 
 ## The outdoors
 
@@ -20,7 +23,7 @@ but there are restaurants (and a Grizzly bear sanctuary) at the top.
 Accessible by bus.
 Medium difficulty&mdash;you have to climb like 2800 steps.
 - Eagle Bluffs and St Mark's Summit at Cypress mountain.
-More difficult. (Stop at the Cypress lookout for a great view.  )
+More difficult. (Stop at the Cypress lookout for a great view.)
 - Pump Peak at mount Seymour. 
 Even more difficult.
 - Garibaldi Lake. 
@@ -40,7 +43,7 @@ There's an aviarium at the top,
 and also really nice views of the city.
 
 **Gardens**.
-- Nitobe Memorial Garden. Please go.
+- Nitobe Memorial Garden at UBC. Please go.
 - UBC botanical garden.
 - Rose garden at UBC.
 - Van Dusen botanical garden. They have a maze!
@@ -65,6 +68,7 @@ Totally flat and very scenic.
 - Science World. Pretty fun.
 - Art Gallery. 
 - Polygon Gallery.
+
 
 ## Food
 
@@ -118,6 +122,7 @@ I like Dark Matter (from Hoyne brewery),
 most stuff from Russell brewing
 and Yellow Dog,
 Blue Buck (from Phillips),
+33 Acres.
 
 If you want to *go* to a brewery,
 I recommend Steamworks in Gastown. Love the place and the beer
