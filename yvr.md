@@ -23,10 +23,11 @@ but there are restaurants (and a Grizzly bear sanctuary) at the top.
 Accessible by bus.
 Medium difficulty&mdash;you have to climb like 2800 steps.
 - Eagle Bluffs and St Mark's Summit at Cypress mountain.
-More difficult. (Stop at the Cypress lookout for a great view.)
-- Pump Peak at mount Seymour. 
+More difficult. 
+(Stop at the Cypress lookout for a great view of the city.)
+- Pump Peak at Mount Seymour. 
 Even more difficult.
-- Garibaldi Lake. 
+- Garibaldi Lake. Haven't done it but it's 18km round trip.
 
 **Parks**.
 - Stanely Park. You can hike around the trails,
@@ -59,7 +60,7 @@ Sunset beach too. Third beach if you want to walk.
 - Cycling. Vancouver is an amazing place to bike around.
 You can get a Mobi bike
 or rent a better bike near Stanley Park.
-I recommend the 11km loop around Stanely.
+I recommend the 11km loop around Stanley.
 Totally flat and very scenic.
 
 ## Museums and galleries
@@ -79,20 +80,20 @@ You will probably not go wrong no matter where you go,
 but here are some options that I have tried and liked:
 - Maruhachi. They have a chicken broth; probably my goto ramen around. 
 Their veggie curry broth is good too.
-- Santouka Excelent pork broth, but their veggie option is not as good as Maruhachi.
+- Santouka. Excellent pork broth, but their veggie option is not as good as Maruhachi.
 - Tonkotsu. Also another great option, but lacking in veggie options.
 - Kintaro. Good ramen but more than anything *big* portions.
 - Danbo. Allegedly the best one in Vancouver, but in my experience it's just... good. 
 There's almost always a line too, which in my opinion is not worth it.
 - Kinton at UBC. Surprisingly good ramen given that it's on campus 
-(but noticeably worse than all the above.)
+(but noticeably worse than all the above).
 
 **Sushi**.
 Sushi in Vancouver is incredibly good, 
 and often the best bang for your buck cuisine around.
 My goto places:
 - Osaka. Their mix roll combo is huge and really good. Tons of good veggie options.
-- Big bang. Probably one of my favorites around, 
+- Big Bang. Probably one of my favorites around, 
 although the veggie options are not that great.
 - Tom sushi. Considered by many one of the best in town. 
 I think it's great but doesn't necesarilly stand out.
@@ -109,7 +110,7 @@ Close to Queen Elizabeth Park if you're in that area.
 **Korean**.
 A lot of great options.
 - Kosoo. Best Korean pleace in town I think.
-They have two shops, one for Korean food and another
+They have two locations, one for Korean food and another
 specifically for fried chicken.
 - Mumu for fried chicken.
 - Sura.
@@ -122,7 +123,7 @@ I like Dark Matter (from Hoyne brewery),
 most stuff from Russell brewing
 and Yellow Dog,
 Blue Buck (from Phillips),
-33 Acres.
+and 33 Acres.
 
 If you want to *go* to a brewery,
 I recommend Steamworks in Gastown. Love the place and the beer
@@ -141,9 +142,9 @@ JJ Bean (good coffee, great choco chip cookies).
 Breka (open 24/7).
 
 Non-franchises:
-Amoka (they have Mexican pastries like concha).
+Amoka (they have Mexican pastries like conchas).
 Oak Tree. Loafe and Great Dane at UBC.
-Grounds for Coffee (best cinnabon buns I have every tried).
+Grounds for Coffee (best cinnabon buns I have ever tried).
 
 Specialty: Nemesis (particularly the one in North Vancouver).
 Novella. Analog.
