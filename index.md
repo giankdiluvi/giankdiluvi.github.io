@@ -23,7 +23,9 @@ Check [this webpage](./quickcounts) if you're interested.
 In my free time, I enjoy road cycling around Vancouver
 with [Gruppetto](https://www.strava.com/clubs/1144698),
 as well as running and hiking (who in Vancouver doesn't?).
-I also like reading sci-fi novels and, recently, 
+I also like 
+[reading](https://sparkly-brisket-945.notion.site/Books-53006a955d804feeb48304256f0021fb?pvs=4);
+recently, I'm reading a lot of
 contemporary female Latin American writers
 (thanks mainly to my wife [Sarah](https://sarahrevilla.github.io/)).
 
