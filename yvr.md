@@ -92,6 +92,9 @@ There's almost always a line too, which in my opinion is not worth it.
 Sushi in Vancouver is incredibly good, 
 and often the best bang for your buck cuisine around.
 My goto places:
+- Simply Sushi Bar in Kits. Excellent sushi without a premium price.
+Mom and pop so except a slightly slow service during peak hours 
+(but still worth it).
 - Osaka. Their mix roll combo is huge and really good. Tons of good veggie options.
 - Big Bang. Probably one of my favorites around, 
 although the veggie options are not that great.
@@ -102,7 +105,6 @@ I think it's great but doesn't necesarilly stand out.
 Not the best around but it's still very good and close to my place so I go there a lot.
 - Koi. The best sushi close to UBC. It is *very* cheap and quite decent.
 You get 10% off if you pay cash, too.
-- Ahi. Good option if you're in Kits.
 - Ton Ton. Good for bento boxes and combos like that. 
 Close to Queen Elizabeth Park if you're in that area.
 - Kisha Poppo. $25 all-you-can-eat! But *very* out of the way.
