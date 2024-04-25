@@ -80,6 +80,9 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 </a>  &emsp;
 <a href="./docs/madmix/index.html">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
+</a>  &emsp;
+<a href="https://docs.google.com/presentation/d/1aJnLtbDJf5DqIxTeVVR9n6m45wvekufzBgF3vANSN-0/edit?usp=sharing">
+<i class="fas fa-desktop"></i> poster
 </a>
 
 - Structured, interactive resources for teaching Bayesian inference\
