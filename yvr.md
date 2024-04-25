@@ -100,7 +100,6 @@ Mom and pop so except a slightly slow service during peak hours
 although the veggie options are not that great.
 - Tom sushi. Considered by many one of the best in town. 
 I think it's great but doesn't necesarilly stand out.
-- Kadoya. Another good option in downtown.
 - Yummy to go. Cheap and quick. 
 Not the best around but it's still very good and close to my place so I go there a lot.
 - Koi. The best sushi close to UBC. It is *very* cheap and quite decent.
