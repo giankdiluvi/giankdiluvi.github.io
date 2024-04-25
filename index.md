@@ -78,6 +78,9 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 <a href="https://arxiv.org/abs/2308.15613">
   <i class="fas fa-external-link-alt" style="font-size:20px"></i> arXiv
 </a>  &emsp;
+<a href="https://proceedings.mlr.press/v238/c-diluvi24a.html">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i> AISTATS
+</a>  &emsp;
 <a href="./docs/madmix/index.html">
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>  &emsp;

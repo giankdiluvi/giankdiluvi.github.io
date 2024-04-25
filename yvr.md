@@ -11,23 +11,32 @@ I hope it's useful!
 ## The outdoors
 
 **Hikes**.
-I highly recommend you download All Trails.
+I highly recommend you download [All Trails](https://www.alltrails.com/).
 You might need a car to access some of these.
 Some options:
-- Lynn Valley has a lot of trails and you can build your own hike.
-I recommend going to the (free) suspension bridge and the 30 foot pool
+- [Lynn Valley](https://www.alltrails.com/parks/canada/british-columbia/lynn-headwaters-regional-park) 
+has a lot of trails and you can build your own hike.
+I recommend going to the (free) 
+[suspension bridge](https://lynncanyon.ca/tour/suspension-bridge/)
+and the [30 foot pool](https://lynncanyon.ca/30-foot-pool/)
 (short and easy).
-- Quarry Rock at Deep Cove. Easy and short. Go to Honey Donuts after!
-- The Grouse grind. More a workout than a hike
-but there are restaurants (and a Grizzly bear sanctuary) at the top.
-Accessible by bus.
+- [Quarry Rock](https://www.alltrails.com/trail/canada/british-columbia/quarry-rock-baden-powell-from-deep-cove) 
+at [Deep Cove](https://maps.app.goo.gl/wySk4U4FNjPczMDP8).
+Easy and short. Go to [Honey Donuts](https://honeydoughnuts.com/) after!
+- The [Grouse grind](https://www.grousemountain.com/grousegrind).
+More a workout than a hike but there are restaurants 
+(and a [Grizzly bear sanctuary](https://www.grousemountain.com/wildlife-refuge))
+at the top. Accessible by bus.
 Medium difficulty&mdash;you have to climb like 2800 steps.
-- Eagle Bluffs and St Mark's Summit at Cypress mountain.
-More difficult. 
-(Stop at the Cypress lookout for a great view of the city.)
-- Pump Peak at Mount Seymour. 
-Even more difficult.
-- Garibaldi Lake. Haven't done it but it's 18km round trip.
+- [Eagle Bluffs](https://www.alltrails.com/trail/canada/british-columbia/eagleridge-bluffs-via-black-mountain-trail)
+and [St Mark's Summit](https://www.alltrails.com/trail/canada/british-columbia/saint-marks-summit)
+at Cypress mountain. More difficult. 
+(Stop at the [Cypress lookout](https://g.co/kgs/5rmiJ5P)
+for a great view of the city.)
+- [Pump Peak](https://www.alltrails.com/trail/canada/british-columbia/pump-peak)
+at Mount Seymour. Even more difficult.
+- [Garibaldi Lake](https://www.alltrails.com/trail/canada/british-columbia/garibaldi-lake--2).
+Haven't done it but it's 18km round trip. You also need a park pass.
 
 **Parks**.
 - Stanely Park. You can hike around the trails,
