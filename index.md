@@ -43,14 +43,16 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
+- [May 2024] Our [paper](https://arxiv.org/abs/2304.00149) 
+on a new fully-online methodology for assessing educational
+resources in development has been accepted to the
+International Conference of the Royal Statistical Society!
+
+
 - [Jan 2024] Our [paper](https://arxiv.org/abs/2308.15613) 
 on learning discrete distributions with MCMC-inspired 
 variational flows has been accepted at [AISTATS](https://virtual.aistats.org/)!
 
-
-- [Apr 2023] New [preprint](https://arxiv.org/abs/2304.00149) 
-on a new fully-online methodology for assessing educational
-resources in development!
 
 - [Sept 2022] Our 
 [paper](https://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_309_DILUVI.pdf?1669865554) 
@@ -60,7 +62,6 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 
 ## Publications
 
-**Peer-reviewed**
 
 - Mixed variational flows for discrete variables\
 <span style="color:grey;">
@@ -70,7 +71,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   International Conference on Artificial Intelligence and Statistics, 2024
 </span>\
  <a onclick="setClipboard('
-    @inproceedings{diluvi2024madmix,title={Mixed variational flows for discrete variables},author={\{Gian Carlo\} Diluvi and Benjamin Bloem-Reddy and Trevor Campbell},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
+    @inproceedings{Diluvi2024MADMix,title={Mixed variational flows for discrete variables},author={\{Gian Carlo\} Diluvi and Benjamin Bloem-Reddy and Trevor Campbell},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
@@ -91,6 +92,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 <i class="fas fa-desktop"></i> poster
 </a>
 
+
 - Structured, interactive resources for teaching Bayesian inference\
 <span style="color:grey;">
   **Gian Carlo Diluvi**, Bruce Dunham, Nancy Heckman, Melissa Lee,
@@ -100,7 +102,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   International Conference on Teaching Statistics, 2022
 </span>\
  <a onclick="setClipboard('
-    @inproceedings{diluvi2022icots,
+    @inproceedings{Diluvi2022BayesianResources,
       title={Structured, interactive resources for teaching {B}ayesian inference},
       author={\{Gian Carlo\} Diluvi and Bruce Dunham and Nancy Heckman and Melissa Lee and Rodolfo Lourenzutti},
       booktitle={International Conference on Teaching Statistics},
@@ -116,15 +118,17 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   <i class="fas fa-desktop" style="font-size:20px"></i> slides
 </a>
 
-
-**Preprints**
+**Workshops and conferences**
 
 - Using online student focus groups in the development of new educational resources\
 <span style="color:grey;">
   **Gian Carlo Diluvi**\*, Sonja Isberg\*, Bruce Dunham, Nancy Heckman, Melissa Lee
 </span>\
+<span style="color:grey;">
+  Royal Statistical Society International Conference, 2024
+</span>\
  <a onclick="setClipboard('
-    @article{diluvi2023onlinefg,
+    @article{Diluvi2023OnelineFG,
       title={Using online student focus groups in the development of new educational resources},
       author={\{Gian Carlo\} Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
       journal={arXiv:2304.00149},
