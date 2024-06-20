@@ -196,6 +196,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 </a>
 
 
+<!--
 **Others**
 
 - How does it make you feel?\
@@ -224,7 +225,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 <a href="https://github.com/GiankDiluvi/Sentiments_of_Sentimentality">
   <i class="fab fa-github" style="font-size:20px"></i> code
 </a>
-
+-->
 
 ## Teaching
 
