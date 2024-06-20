@@ -72,7 +72,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   International Conference on Artificial Intelligence and Statistics, 2024
 </span>\
  <a onclick="setClipboard('
-    @inproceedings{Diluvi2024MADMix,title={Mixed variational flows for discrete variables},author={\{Gian Carlo\} Diluvi and Benjamin Bloem-Reddy and Trevor Campbell},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
+    @inproceedings{Diluvi2024MADMix,title={Mixed variational flows for discrete variables},author={Gian Carlo Diluvi and Benjamin Bloem-Reddy and Trevor Campbell},booktitle={International Conference on Artificial Intelligence and Statistics},year={2024}
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
@@ -105,7 +105,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
  <a onclick="setClipboard('
     @inproceedings{Diluvi2022BayesianResources,
       title={Structured, interactive resources for teaching {B}ayesian inference},
-      author={\{Gian Carlo\} Diluvi and Bruce Dunham and Nancy Heckman and Melissa Lee and Rodolfo Lourenzutti},
+      author={Gian Carlo Diluvi and Bruce Dunham and Nancy Heckman and Melissa Lee and Rodolfo Lourenzutti},
       booktitle={International Conference on Teaching Statistics},
       year={2022}
     }
@@ -129,11 +129,11 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
   Royal Statistical Society International Conference, 2024
 </span>\
  <a onclick="setClipboard('
-    @article{Diluvi2023OnelineFG,
+    @inproceedings{Diluvi2024OnlineFG,
       title={Using online student focus groups in the development of new educational resources},
-      author={\{Gian Carlo\} Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
-      journal={arXiv:2304.00149},
-      year={2023}
+      author={Gian Carlo Diluvi and Sonja Isberg and Bruce Dunham and Nancy Heckman and Melissa Lee},
+      booktitle={Royal Statistical Society International Conference},
+      year={2024}
     }
     ')">
   <i class="fas fa-copy" style="font-size:20px"></i> copy bibtex
