@@ -62,6 +62,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 
 ## Publications
 
+**Peer-reviewed**
 
 - Mixed variational flows for discrete variables\
 <span style="color:grey;">
