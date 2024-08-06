@@ -42,6 +42,9 @@ the teaching of Bayesian statistics in the undergraduate curricula.
 
 ## News
 
+- [August 2024] I successfully defended my thesis proposal,
+which means that I'm officially a PhD candidate!
+
 - [May 2024] Our [paper](https://arxiv.org/abs/2304.00149) 
 on a new fully-online methodology for assessing educational
 resources in development has been accepted to the
