@@ -5,7 +5,7 @@ layout: default
 ## About
 
 
-I am a PhD student in [statistics](https://www.stat.ubc.ca/)
+I am a PhD candidate in [statistics](https://www.stat.ubc.ca/)
 at [UBC](https://www.ubc.ca/), where I also completed my MSc.
 My supervisors are [Trevor Campbell](https://trevorcampbell.me/)
 and [Ben Bloem-Reddy](https://www.stat.ubc.ca/~benbr/).
@@ -20,14 +20,12 @@ working as a research assistant for
 [Manuel Mendoza](https://facultad.itam.mx/en/facultad/15063-manuel-mendoza-ramirez).
 Check [this webpage](./quickcounts) if you're interested.
 
-In my free time, I enjoy road cycling around Vancouver
-with [Gruppetto](https://www.strava.com/clubs/1144698),
-as well as running and hiking (who in Vancouver doesn't?).
+In my free time, I enjoy running and road cycling around Vancouver.
 I also like 
 [reading](https://sparkly-brisket-945.notion.site/Books-53006a955d804feeb48304256f0021fb?pvs=4);
 recently, I'm reading a lot of
-contemporary female Latin American writers
-(thanks mainly to my wife [Sarah](https://sarahrevilla.github.io/)).
+contemporary female Latin American writers&mdash;thanks
+mainly to recommendations from my wife [Sarah](https://sarahrevilla.github.io/).
 
 
 ## Research interests
