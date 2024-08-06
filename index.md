@@ -31,9 +31,10 @@ mainly to recommendations from my wife [Sarah](https://sarahrevilla.github.io/).
 ## Research interests
 
 I am mostly interested in developing algorithms for Bayesian inference
-with theoretical guarantees that allow us to solve large-scale problems.
-While I thoroughly enjoy methodological developments,
-I strive to always have a specific real-world problem(s) in mind.
+over discrete variables. 
+This includes general-purpose methods for this setting
+but also specialized algorithms for specific types of discrete structures,
+such as directed acyclic graphs in causal discovery.
 
 I am also interested in statistical education,
 and particularly in finding ways to improve and expand
