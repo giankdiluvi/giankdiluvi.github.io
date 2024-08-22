@@ -230,7 +230,7 @@ GEM
       ffi (~> 1.0)
     reverie (1.0.4)
       configliere (~> 0.4)
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     rouge (3.26.0)
     ruby-enum (0.9.0)
