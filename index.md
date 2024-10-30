@@ -241,9 +241,10 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 ## Teaching
 
 **Mentorship**:
-- TA trainer, department of statistics @ UBC
+- TA trainer, department of statistics @ UBC, 2021&mdash;2024
 
 **TAing**:
+- STAT 450 case studies in statistics, spring 2024 @ UBC
 - STAT 450 case studies in statistics, spring 2022 @ UBC
 - STAT 302 introduction to probability, spring 2020 @ UBC
 - STAT 200 elementary statistics for applications, spring 2020 @ UBC
@@ -311,10 +312,6 @@ Here are the resources that I have developed:
 ## Contact
 
 If you are interested in doing an MSc or a PhD in statistics at UBC, reach out!
-I am happy to chat and help answer any questions you have.
-Don't forget to check out the
-[website of the UBC statistics grad student association](https://www.stat.ubc.ca/sgsa).
-
 Check my [UBC stats webpage](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 for contact info.
 
