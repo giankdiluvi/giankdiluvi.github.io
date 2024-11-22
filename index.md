@@ -244,7 +244,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 - TA trainer, department of statistics @ UBC, 2021&mdash;2024
 
 **TAing**:
-- STAT 450 case studies in statistics, spring 2024 @ UBC
+- STAT 450 case studies in statistics, spring 2025 @ UBC
 - STAT 450 case studies in statistics, spring 2022 @ UBC
 - STAT 302 introduction to probability, spring 2020 @ UBC
 - STAT 200 elementary statistics for applications, spring 2020 @ UBC
