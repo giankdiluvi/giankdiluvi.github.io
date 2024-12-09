@@ -102,7 +102,7 @@ Sushi in Vancouver is incredibly good,
 and often the best bang for your buck cuisine around.
 My goto places:
 - Simply Sushi Bar in Kits. Excellent sushi without a premium price.
-Mom and pop so except a slightly slow service during peak hours 
+Mom and pop so expect a slightly slow service during peak hours 
 (but still worth it).
 - Osaka. Their mix roll combo is huge and really good. Tons of good veggie options.
 - Big Bang. Probably one of my favorites around, 
@@ -156,8 +156,11 @@ Amoka (they have Mexican pastries like conchas).
 Oak Tree. Loafe and Great Dane at UBC.
 Grounds for Coffee (best cinnabon buns I have ever tried).
 
-Specialty: Nemesis (particularly the one in North Vancouver).
-Novella. Analog.
+Specialty: Oidé is the best around town in my opinion.
+Nemesis (particularly the one in North Vancouver) is great.
+Luminé in Kits has a pour over machine, which is cool. 
+Their drip coffee is often good, too.
+Revolver. Modus. Prototype. Analog.
 
 **Brunch**.
 Many good options around,
