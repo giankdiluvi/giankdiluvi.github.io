@@ -39,25 +39,28 @@ at Mount Seymour. Even more difficult.
 Haven't done it but it's 18km round trip. You also need a park pass.
 
 **Parks**.
-- Stanely Park. You can hike around the trails,
+- [Stanely Park](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx). 
+You can hike around the trails,
 go to the aquarium,
 or Prospect Point,
 or Lost Lagoon,
 or Beaver Lake,
 or the rose garden. Amazing place.
-- Pacific Spirit Park.
+- [Pacific Spirit Park](https://metrovancouver.org/services/regional-parks/park/pacific-spirit-regional-park).
 Lots of trails for easy hiking.
 Very peaceful.
-- Queen Elizabeth Park.
+- [Queen Elizabeth Park](https://vancouver.ca/parks-recreation-culture/queen-elizabeth-park.aspx).
 There's an aviarium at the top,
 and also really nice views of the city.
 
 **Gardens**.
-- Nitobe Memorial Garden at UBC.
+- [Nitobe Memorial Garden](https://botanicalgarden.ubc.ca/visit/nitobe-memorial-garden/) at UBC.
 Gorgeous Japanese garden. Please go.
-- UBC botanical garden.
-- Rose garden at UBC. Beautiful ocean and mountain views.
-- Van Dusen botanical garden. They have a maze!
+- [UBC botanical garden](https://botanicalgarden.ubc.ca/).
+- [Rose garden](https://visit.ubc.ca/see-and-do/gardens-and-nature/ubc-rose-garden/) at UBC. 
+Beautiful ocean and mountain views.
+- [Van Dusen](https://vancouver.ca/parks-recreation-culture/vandusen-botanical-garden.aspx) 
+botanical garden. They have a maze and beautiful lights during winter nights.
 
 **Beaches**.
 - In downtown: English Bay. The best one in town. 
