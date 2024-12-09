@@ -189,6 +189,7 @@ Listen. If you want the real Mexican experience,
 you probably won't get it in Vancouver.
 But that doesn't mean there aren't great places.
 - Machete. My favorite around. Their signature dish is huge and tastes like... home.
+- Carnitas Don José. These carnitas taste like home.
 - Tamaly. Highly recommend their brunch, which has many classic Mexican dishes.
 - Lucha Libre. Good tacos&mdash;I particularly enjoyed their suadero.
 - Toloache. Also a good option. Their tortilla soup is great.
