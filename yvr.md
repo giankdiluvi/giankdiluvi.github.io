@@ -102,12 +102,16 @@ look no further than the
 [North Shore](https://www.trailrunproject.com/directory/8011399/north-shore).
 
 ## Museums and galleries
-- Museum of Anthropology at UBC. My favorite. Highly recommend.
-- Beaty Biodiversity Museum at UBC. Has the largest blue whale in North America.
-- Museum of Vancouver. It's okay.
-- Science World. Pretty fun.
-- Art Gallery. People say it's overrated.
-- Polygon Gallery. Rotates frequently, but I like it. Go for coffee to Nemesis!
+- [Museum of Anthropology](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/museum-of-anthropology/)
+at UBC. My favorite. Highly recommended.
+- [Beaty Biodiversity Museum](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/beaty-biodiversity-museum/) at UBC. 
+Has the largest blue whale in North America.
+- [Museum of Vancouver](https://museumofvancouver.ca/). It's okay.
+- [Science World](https://www.scienceworld.ca/). Pretty fun.
+- [Art Gallery](https://www.vanartgallery.bc.ca/). 
+Not the best in the world but worth the visit depending on the curation.
+- [Polygon Gallery](https://thepolygon.ca/). 
+Rotates frequently, but I like it. Go for coffee to Nemesis!
 
 
 ## Food
