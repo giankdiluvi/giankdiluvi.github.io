@@ -63,17 +63,43 @@ Beautiful ocean and mountain views.
 botanical garden. They have a maze and beautiful lights during winter nights.
 
 **Beaches**.
-- In downtown: English Bay. The best one in town. 
-Sunset beach too. Third beach if you want to walk.
-- Near Kits: Kits beach, Jericho beach, Spanish Banks. 
-- Wreck beach at UBC. Clothing optional. Amazing sunsets.
+- In downtown: 
+[English Bay](https://vancouver.ca/parks-recreation-culture/english-bay-beach.aspx). 
+The best one in town. 
+[Sunset beach](https://vancouver.ca/parks-recreation-culture/sunset-beach.aspx) nearby too. 
+This is a beautiful part of Vancouver to walk around. 
+You can even walk to 
+[third beach](https://vancouver.ca/parks-recreation-culture/third-beach.aspx)
+in Stanley Park.
+- Near Kits: 
+[Kits beach](https://vancouver.ca/parks-recreation-culture/kitsilano-beach.aspx), 
+[Jericho beach](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx), 
+[Spanish Banks](https://vancouver.ca/parks-recreation-culture/spanish-bank-beach.aspx). 
+- [Wreck beach](https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/) at UBC. 
+Clothing optional. Amazing sunsets and you can walk towards Spanish beach.
 
 **Others**.
 - Cycling. Vancouver is an amazing place to bike around.
-You can get a Mobi bike
-or rent a better bike near Stanley Park.
-I recommend the 11km loop around Stanley.
-Totally flat and very scenic.
+You can get a [Mobi bike](https://www.mobibikes.ca/)
+or rent a better bike near Stanley Park,
+e.g., from 
+[English Bay Bike Rentals](https://www.englishbaybikerentals.com/).
+I recommend the 11km loop around Stanley Park.
+Totally flat and very scenic with ocean and mountain views all the time.
+If you want more interesting road routes,
+check [this webpage](https://coachpowell.ca/vancouver-cycling-routes/).
+I particularly enjoy cycling to Horseshoe Bay, to Deep Cove, and to Steveston.
+During the summer, you can also climb Seymour, Cypress, and Grouse mountains
+(in order of difficulty from hard to easy).
+- Running. Vancouver is also an incredible city for running.
+I believe that running on the seawall around Stanley Park is 
+something that every runner should experience at least once.
+The seawall extends to False Creek and also to Kits,
+with mostly uninterrupted and car-less paths.
+The trails in Stanley Park and Pacific Spirit are also great,
+but if you want trail runs with more elevation,
+look no further than the 
+[North Shore](https://www.trailrunproject.com/directory/8011399/north-shore).
 
 ## Museums and galleries
 - Museum of Anthropology at UBC. My favorite. Highly recommend.
