@@ -188,6 +188,7 @@ Non-franchises:
 Amoka (they have Mexican pastries like conchas).
 Oak Tree. Loafe and Great Dane at UBC.
 Grounds for Coffee (best cinnabon buns I have ever tried).
+Isetta if you go to West Vancouver is awesome.
 
 Specialty coffee shops that don't roast their own beans: 
 Oidé is the best around town in my opinion.
@@ -206,8 +207,15 @@ If you can, go to their Great Northern Way location; it's beautiful.
 Prototype is top notch too. 
 Modus on Broadway. 
 Analog, Pallet, or Kafka if you're in Downtown. 
+Timbertrain (the one in Port Moody is like a weird real estate exposition).
 Agro is the cheapest good quality specialty coffee roaster 
 but I've never been to their coffee shop.
+
+Specialty coffee shops I haven't gone to but want to:
+Single V in Burnaby (got a beautiful Wilton Benitez from them).
+Botany Rd in the Sunshine Coast 
+(good road trip; hit Sunday Cider and Persephone Brewing too!).
+Sunny M and R Ki in Richmond.
 
 Check out [Vancouver Coffee Snob](https://www.vancouvercoffeesnob.com/)
 for more recommendations.
