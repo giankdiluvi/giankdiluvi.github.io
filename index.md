@@ -311,15 +311,10 @@ Here are the resources that I have developed:
 
 ## Contact
 
-If you are interested in doing an MSc or a PhD in statistics at UBC, reach out!
+If you are interested in doing an MSc or a PhD in statistics at UBC, reach out
+in English o en español.
 Check my [UBC stats webpage](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 for contact info.
-
-Latinx students: Canadá tiene una linda comunidad estadística latinx,
-tanto en Vancouver como en
-[Toronto](https://www.statistics.utoronto.ca/people/directories/all-faculty/vianey-leos-barajas).
-Si tienes dudas o quieres ayuda en tu solicitud a un programa de posgrado,
-¡contáctame!
 
 
 
