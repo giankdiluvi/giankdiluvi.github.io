@@ -104,6 +104,12 @@ look no further than the
 ## Museums and galleries
 - [Museum of Anthropology](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/museum-of-anthropology/)
 at UBC. My favorite. Highly recommended.
+- [Vancouver Maritime Museum](https://vanmaritime.com/).
+Close second. They have a huge, old ice-breaking ship that you can get on
+(and it's super well preserved&mdash;you can see the crew's cabins and all).
+They also have many display ship models.
+- [MacMillan Space Centre](https://www.spacecentre.ca/) has a super cool star theater
+with really interesting viewings.
 - [Beaty Biodiversity Museum](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/beaty-biodiversity-museum/) at UBC. 
 Has the largest blue whale in North America.
 - [Museum of Vancouver](https://museumofvancouver.ca/). It's okay.
