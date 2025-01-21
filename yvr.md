@@ -189,11 +189,29 @@ Amoka (they have Mexican pastries like conchas).
 Oak Tree. Loafe and Great Dane at UBC.
 Grounds for Coffee (best cinnabon buns I have ever tried).
 
-Specialty: Oidé is the best around town in my opinion.
-Nemesis (particularly the one in North Vancouver) is great.
+Specialty coffee shops that don't roast their own beans: 
+Oidé is the best around town in my opinion.
+They carry some amazing brands and have them for espresso and pour over.
+Revolver in Gastown is also awesome and they carry pretty interesting beans. 
 Luminé in Kits has a pour over machine, which is cool. 
-Their drip coffee is often good, too.
-Revolver. Modus. Prototype. Analog.
+Not a coffee shop but Welk's on Main Street has an _amazing_ coffee section.
+They sell everything from grinders, scales, and brewers
+to (Kinto) cups and servers.
+They also carry a ton of great local beans,
+including House of Funk, Nemesis, Agro, and Pallet.
+
+Specialty coffee shops that roast their own beans (buy local!):
+Nemesis is great. 
+If you can, go to their Great Northern Way location; it's beautiful.
+Prototype is top notch too. 
+Modus on Broadway. 
+Analog, Pallet, or Kafka if you're in Downtown. 
+Agro is the cheapest good quality specialty coffee roaster 
+but I've never been to their coffee shop.
+
+Check out [Vancouver Coffee Snob](https://www.vancouvercoffeesnob.com/)
+for more recommendations.
+
 
 **Brunch**.
 Many good options around,
