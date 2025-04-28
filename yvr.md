@@ -185,10 +185,10 @@ If you go to Port Moody, there are many awesome breweries there too.
 
 Franchises:
 Tim Hortons (bad coffee but a staple).
-Elysian (great coffee).
-49th Parallel (also great coffee).
-JJ Bean (good coffee, great choco chip cookies).
-Breka (open 24/7).
+Elysian.
+49th Parallel.
+JJ Bean (great choco chip cookies).
+Breka (open 24/7, pastries are *awesome*).
 
 Non-franchises:
 Amoka (they have Mexican pastries like conchas).
@@ -197,24 +197,27 @@ Grounds for Coffee (best cinnabon buns I have ever tried).
 Isetta if you go to West Vancouver is awesome.
 
 Specialty coffee shops that don't roast their own beans: 
-Oidé is the best around town in my opinion.
+- Oidé is the best coffee shop around town in my opinion.
 They carry some amazing brands and have them for espresso and pour over.
-Revolver in Gastown is also awesome and they carry pretty interesting beans. 
-Luminé in Kits has a pour over machine, which is cool. 
-Not a coffee shop but Welk's on Main Street has an _amazing_ coffee section.
+- Revolver in Gastown is also awesome and they carry pretty interesting beans. 
+- Luminé in Kits has a pour over machine, which is cool. 
+Despite not roasting their beans, 
+they carry exclusively Canadian-roasted beans, which is great.
+- Not a coffee shop but Welk's on Main Street has an _amazing_ coffee section.
 They sell everything from grinders, scales, and brewers
 to (Kinto) cups and servers.
 They also carry a ton of great local beans,
 including House of Funk, Nemesis, Agro, and Pallet.
 
 Specialty coffee shops that roast their own beans (buy local!):
-Nemesis is great. 
+- Prototype is top notch. If you are looking for a good pour over,
+Prototype has the biggest selection for in-house brewing.
+- Nemesis is great. 
 If you can, go to their Great Northern Way location; it's beautiful.
-Prototype is top notch too. 
-Modus on Broadway. 
-Analog, Pallet, or Kafka if you're in Downtown. 
-Timbertrain (the one in Port Moody is like a weird real estate exposition).
-Agro is the cheapest good quality specialty coffee roaster 
+- Modus on Broadway. Small shop but don't be fooled: they're coffee is top notch.
+- Analog, Pallet, or Kafka if you're in Downtown. 
+- Timbertrain (the one in Port Moody is like a weird real estate exposition).
+- Agro is the cheapest good quality specialty coffee roaster 
 but I've never been to their coffee shop.
 
 Specialty coffee shops I haven't gone to but want to:
@@ -241,13 +244,13 @@ Their milkshakes are insane if that's your kind of thing.
 in my opinion, *very* overrated.
 Jam always has a line and their eggs benny are just... not great?
 Their sweet stuff servings are huge, though&mdash;pancakes the size of a cake.
-Fable is also very popular but I think it's just... okay.
+Fable is also very popular but I think it's... just okay.
 
 **Ice cream**.
-- La Glace. Their strawberry shortcake is otherwordly.
 - Earnest. Amazing every single time. Their cookies and cream is my favorite.
-- Rain or Shine. A notch below the ones above,
-but their housemade waffle cones make up for it.
+- Rain or Shine. A notch below Earnest,
+but their housemade waffle cones make up for it in my opinion.
+- La Glace. Their strawberry shortcake is otherwordly.
 
 **Mexican**.
 Listen. If you want the real Mexican experience,
