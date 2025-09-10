@@ -40,6 +40,7 @@ I am also interested in statistical education,
 and particularly in finding ways to improve and expand
 the teaching of Bayesian statistics in the undergraduate curricula.
 
+<!--
 ## News
 
 - [August 2024] I successfully defended my thesis proposal,
@@ -60,7 +61,7 @@ variational flows has been accepted at [AISTATS](https://virtual.aistats.org/)!
 [paper](https://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_309_DILUVI.pdf?1669865554) 
 on using structured and interactive resources to
 teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
-
+-->
 
 ## Publications
 
@@ -244,6 +245,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 - TA trainer, department of statistics @ UBC, 2021&mdash;2024
 
 **TAing**:
+- STAT 305 finding relationships in data, fall 2025 @ UBC
 - STAT 450 case studies in statistics, spring 2025 @ UBC
 - STAT 450 case studies in statistics, spring 2022 @ UBC
 - STAT 302 introduction to probability, spring 2020 @ UBC
