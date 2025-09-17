@@ -144,6 +144,8 @@ My goto places:
 Mom and pop so expect a slightly slow service during peak hours 
 (but still worth it).
 - Osaka. Their mix roll combo is huge and really good. Tons of good veggie options.
+- Not sushi, but Saku has Japanese katsu and it's one of the best things I've had here.
+Unlimited rice, salad, and miso soup too.
 - Big Bang. Probably one of my favorites around, 
 although the veggie options are not that great.
 - Tom sushi. Considered by many one of the best in town. 
@@ -161,7 +163,8 @@ A lot of great options.
 - Kosoo. Best Korean pleace in town I think.
 They have two locations, one for Korean food and another
 specifically for fried chicken.
-- Mumu for fried chicken.
+- Mumu for the best fried chicken in downtown (in town, period, maybe?).
+- Dae Bak Bon Ga or Hongdae Pocha for Korean BBQ
 - Sura.
 - Disco Cheetah has good fried chicken too.
 
@@ -272,6 +275,8 @@ but these guys have a legit pastor setup. Highly recommend.
 
 **Others**:
 - Legendary Noodles. Name is accurate.
+- Plus 84 for cheap but great Bahn Mi.
+- Burger Crush are my favorite burgers in town.
 - East is East for Afghan fusion. 
 They have an all-you-can-eat curry thing that I love.
 - Granville Island. So much nice food.
@@ -279,5 +284,4 @@ They have an all-you-can-eat curry thing that I love.
 - Pad Thai at Thai Basil. Cheap but surprisingly good.
 - Slim's BBQ. Great bbq, *amazing* cornbread.
 - Kinara for Indian.
-- Pizza: don't eat pizza in Vancouver. If you insist, Novo or Crema 
-(yeah the coffee place in North Vancouver has one of the best pizzas in town.)
+- Pizza: Novo on Burrard or Crema in North Van.
