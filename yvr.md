@@ -208,13 +208,17 @@ They sell everything from grinders, scales, and brewers
 to (Kinto) cups and servers.
 They also carry a ton of great local beans,
 including House of Funk, Nemesis, Agro, and Pallet.
+- Middlechild if you go to the Sunshine Coast
+(definitely check out Persephone Brewing and Sunday Cider too!).
 
 Specialty coffee shops that roast their own beans (buy local!):
 - Prototype is top notch. If you are looking for a good pour over,
 Prototype has the biggest selection for in-house brewing.
 - Nemesis is great. 
 If you can, go to their Great Northern Way location; it's beautiful.
-- Modus on Broadway. Small shop but don't be fooled: they're coffee is top notch.
+- Funk Coffee House in downtown is pretty cool and carries
+House of Funk beans. Great for working.
+- Modus on Broadway. Small shop but don't be fooled: their coffee is top notch.
 - Analog, Pallet, or Kafka if you're in Downtown. 
 - Timbertrain (the one in Port Moody is like a weird real estate exposition).
 - Agro is the cheapest good quality specialty coffee roaster 
@@ -222,8 +226,6 @@ but I've never been to their coffee shop.
 
 Specialty coffee shops I haven't gone to but want to:
 Single V in Burnaby (got a beautiful Wilton Benitez from them).
-Botany Rd in the Sunshine Coast 
-(good road trip; hit Sunday Cider and Persephone Brewing too!).
 Sunny M and R Ki in Richmond.
 
 Check out [Vancouver Coffee Snob](https://www.vancouvercoffeesnob.com/)
@@ -240,6 +242,8 @@ and so the recipes have a nice twist.
 I like their tapioca crepes and their eggs benny 
 (which come on top of a waffle instead of an English muffin).
 Their milkshakes are insane if that's your kind of thing.
+- Cora for a nice diner experience.
+Their skillets are really great.
 - Jam Cafe and Fable. The two most popular options in Vancouver and,
 in my opinion, *very* overrated.
 Jam always has a line and their eggs benny are just... not great?
@@ -247,9 +251,10 @@ Their sweet stuff servings are huge, though&mdash;pancakes the size of a cake.
 Fable is also very popular but I think it's... just okay.
 
 **Ice cream**.
-- Earnest. Amazing every single time. Their cookies and cream is my favorite.
-- Rain or Shine. A notch below Earnest,
-but their housemade waffle cones make up for it in my opinion.
+- Rain or Shine. My favorite in town due to its consistency.
+I often find myself trying new flavors and really liking them.
+- Earnest. Their cookies and cream is my favorite.
+- Mister on Robson is more of an artisanal ice cream but it's great.
 - La Glace. Their strawberry shortcake is otherwordly.
 
 **Mexican**.
@@ -258,9 +263,10 @@ you probably won't get it in Vancouver.
 But that doesn't mean there aren't great places.
 - Machete. My favorite around. Their signature dish is huge and tastes like... home.
 - Carnitas Don José. These carnitas taste like home.
-- Tamaly. Highly recommend their brunch, which has many classic Mexican dishes.
+- Taquería Chicatana. Only Mondays and Tuesdays,
+but these guys have a legit pastor setup. Highly recommend.
 - Lucha Libre. Good tacos&mdash;I particularly enjoyed their suadero.
-- Toloache. Also a good option. Their tortilla soup is great.
+- Tamaly. Highly recommend their brunch, which has many classic Mexican dishes.
 - Margaritas. Surprisingly good.
 - Avoid: La Taquería (overpriced), Tacofino (lame tacos).
 
