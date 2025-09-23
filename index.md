@@ -21,8 +21,7 @@ working as a research assistant for
 Check [this webpage](./quickcounts) if you're interested.
 
 In my free time, I enjoy running and road cycling around Vancouver.
-I also like 
-[reading](https://sparkly-brisket-945.notion.site/Books-53006a955d804feeb48304256f0021fb?pvs=4);
+I also like reading;
 recently, I'm reading a lot of
 contemporary female Latin American writers&mdash;thanks
 mainly to recommendations from my wife [Sarah](https://sarahrevilla.github.io/).
