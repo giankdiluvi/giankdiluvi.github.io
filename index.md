@@ -319,7 +319,7 @@ Here are the resources that I have developed:
 
 If you are interested in doing an MSc or a PhD in statistics at UBC, reach out
 in English o en español.
-Check my [UBC stats webpage](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
+Check my [UBC stats webpage](https://www.stat.ubc.ca/users/gian-carlo-diluvi)
 for contact info.
 
 
