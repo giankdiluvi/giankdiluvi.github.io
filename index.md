@@ -256,7 +256,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 - STAT 450 (statistical consulting), Spring 2022 @ UBC
 - STAT 302 (undergrad probability), Spring 2020 @ UBC
 - STAT 200 (introductory statistics), Spring 2020 @ UBC
-- STAT 203 (introductory statistics)s, Fall 2019 @ UBC
+- STAT 203 (introductory statistics), Fall 2019 @ UBC
 - EST 14102 (undergrad probability), Spring and Fall 2016 @ ITAM
 
 
