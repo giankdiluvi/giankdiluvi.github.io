@@ -126,7 +126,10 @@ Rotates frequently, but I like it. Go for coffee to Nemesis!
 The ramen scene in Vancouver is insanely good.
 You will probably not go wrong no matter where you go,
 but here are some options that I have tried and liked:
-- Maruhachi. They have a chicken broth; probably my goto ramen around. 
+- Horin. My go-to ramen place. Their servings are not huge
+but still filling, and this is compensated by the taste.
+Their veggie options are top notch too.
+- Maruhachi. Their broth is chicken-based and it's great. 
 Their veggie curry broth is good too.
 - Santouka. Excellent pork broth, but their veggie option is not as good as Maruhachi.
 - Tonkotsu. Also another great option, but lacking in veggie options.
@@ -140,13 +143,14 @@ There's almost always a line too, which in my opinion is not worth it.
 Sushi in Vancouver is incredibly good, 
 and often the best bang for your buck cuisine around.
 My goto places:
+- Osaka. My go-to place. Their mix roll combo is huge and really good. 
+Tons of good veggie options.
 - Simply Sushi Bar in Kits. Excellent sushi without a premium price.
 Mom and pop so expect a slightly slow service during peak hours 
 (but still worth it).
-- Osaka. Their mix roll combo is huge and really good. Tons of good veggie options.
 - Not sushi, but Saku has Japanese katsu and it's one of the best things I've had here.
 Unlimited rice, salad, and miso soup too.
-- Big Bang. Probably one of my favorites around, 
+- Big Bang. Good option on Denman, 
 although the veggie options are not that great.
 - Tom sushi. Considered by many one of the best in town. 
 I think it's great but doesn't necesarilly stand out.
@@ -160,7 +164,7 @@ Close to Queen Elizabeth Park if you're in that area.
 
 **Korean**.
 A lot of great options.
-- Kosoo. Best Korean pleace in town I think.
+- Kosoo. Best Korean pleace in town in my opinion.
 They have two locations, one for Korean food and another
 specifically for fried chicken.
 - Mumu for the best fried chicken in downtown (in town, period, maybe?).
@@ -253,6 +257,14 @@ Jam always has a line and their eggs benny are just... not great?
 Their sweet stuff servings are huge, though&mdash;pancakes the size of a cake.
 Fable is also very popular but I think it's... just okay.
 
+**Dim Sum**
+Good brunch alternative if you want some great asian cuisine.
+- Continental Seafood Restaurant is otherwordly.
+Waiters walk around with carts full of food and you just grab whatever looks tasty.
+Not great for people with dietary restrictions, though.
+- Dinasty on Broadway is pretty decent too.
+- Dinesty if you're in downtown (expect a line).
+
 **Ice cream**.
 - Rain or Shine. My favorite in town due to its consistency.
 I often find myself trying new flavors and really liking them.
@@ -276,12 +288,13 @@ but these guys have a legit pastor setup. Highly recommend.
 **Others**:
 - Legendary Noodles. Name is accurate.
 - Plus 84 for cheap but great Bahn Mi.
-- Burger Crush are my favorite burgers in town.
+- Burger Crush are my favorite burgers in town. 
+But also check out Between 2 Buns, which definitely gives them a run for their money.
 - East is East for Afghan fusion. 
 They have an all-you-can-eat curry thing that I love.
 - Granville Island. So much nice food.
 - Pad Thai at Granville Island. Expensive-ish but very good.
 - Pad Thai at Thai Basil. Cheap but surprisingly good.
-- Slim's BBQ. Great bbq, *amazing* cornbread.
+- Slim's BBQ. Good bbq, *amazing* cornbread.
 - Kinara for Indian.
 - Pizza: Novo on Burrard or Crema in North Van.
