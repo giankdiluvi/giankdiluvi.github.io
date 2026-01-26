@@ -250,6 +250,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 
 **TAing**:
 - STAT 450 (statistical consulting), Spring 2026 @ UBC
+- DSCI 100 (intro to data science), Spring 2026 @ UBC
 - STAT 306 (linear models), Fall 2025 @ UBC
   - Guest lecture on Poisson regression
 - STAT 450 (statistical consulting), Spring 2025 @ UBC
