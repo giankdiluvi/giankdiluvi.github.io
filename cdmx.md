@@ -263,6 +263,9 @@ Try the smoothies&mdash;my favourite is mamey, a common fruit in Mexico that tas
 - [Artisanal market](https://maps.app.goo.gl/fqub3zt61zN9ZGSf6) for more souvenirs.
 - [Allende garden](https://maps.app.goo.gl/Uwqd7Qa3HE2JF5Az8) across the public market.
 Often has vendors.
+- [Viveros](https://maps.app.goo.gl/1pxmNATAWBiXsvJG7) 
+for walking around and particularly for running around.
+- [U-Tópicas](https://maps.app.goo.gl/cCupTta1ozev99KcA). Amazing bookstore. Worth going!
 
 
 **Food**
@@ -278,19 +281,19 @@ and get it with bone marrow. It slaps.
 The most favourite in the neighbourhood. Gotta get tickets in advance.
 
 
+## Others
 
+**Tacos:**
+There are many options around. Generally if you see something that looks tasty, go for it.
+When in doubt, I like [El Califa](https://maps.app.goo.gl/gL3uncfqkRbXJxnz6)&mdash;they
+have multiple locations around town and their vegan options are amazing.
 
-## Lomas
-
-**Attractions**
-
-
-**Food**
-
-
-**Museums**
-
-
-**Others**
-
-
+**Specialty coffee shops:**
+Not included above:
+- [Exploradores](https://maps.app.goo.gl/5asSGUxwpJKWEvRN9). 
+Best coffee roaster in town, hands down. Kinda out of the way but worth visiting
+if you're a coffee snob 
+(and [La Mexicana](https://maps.app.goo.gl/Gya8PQgZTwxxuJec8) park next door is nice).
+- [Esencial](https://maps.app.goo.gl/VzXaGn6njAY9TNRu8).
+- [Ernestina barra de café](https://maps.app.goo.gl/ALHRCdhBAXSvXmkS6).
+- [Kinoo](https://maps.app.goo.gl/UzSStUMsn1frdbgn6).
