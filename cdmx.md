@@ -100,16 +100,77 @@ If you get a spot at the top, you'll enjoy Reforma Avenue in all its glory.
 
 ## Chapultepec
 
+More than a neighborhood it's like Mexico City's Stanley Park or Central Park.
+But bigger, with more things to do and places to explore.
+If not the whole day, it's at least worth spending a half day exploring it.
+It's split into four sections. Sections 1 and 2 are the most popular ones.
+
+Note: if you want to run in CDMX, stay close to Chapultepec.
+It's beautiful and running would be an awesome way to explore it.
+(Plus, you're close to Reforma which is closed to cars on Sundays.)
+
 **Attractions**
-
-
-**Food**
+- [Altar a la Patria](https://maps.app.goo.gl/Yc65JF1j4J6dP9uC8).
+Monument honoring the children who fought against the US invasion in the 1840's.
+- [Porrúa Library](https://maps.app.goo.gl/64gK6a7fMapXjGNc7). 
+Nice one, has a good selection of books and overlooks the lake.
+- [CDMX letters](https://maps.app.goo.gl/MPoh4T91egPN4oKJ9) by the lake.
+Beautiful view of Polanco in the background. 
+You can also rent a swan boat for the lake!
+- There are many streets around Section 1 of Chapultepec. 
+I like Calzada del Rey as well as the circle loop (Gran Av. / Heroico Colegio Militar).
+The area close to the lake has tons of souvenir street vendors.
+- [Nezahualcóyotl Fountain](https://maps.app.goo.gl/4XLRuvWVAdYjrks66). Nice monument.
+- [Lago mayor](https://maps.app.goo.gl/DB5N2wu3d7MaBPBV8). Big lake in the section 2.
+You can buy food to feed the ducks!
+- [Xochipilli Fountain](https://maps.app.goo.gl/eycUp1uziSAuoafP6).
+Who would think there'd be not one but two beautiful fountains in this park?
+- [El Sope](https://maps.app.goo.gl/wjaPNPvqerr1VC8F6). Running track if you're interested.
+- Av de los Compositores is a nice street to walk around in Section 2 of the park.
+- [Aztlán](https://maps.app.goo.gl/cBrRnHAia1TbKx7s6). Attractions park.
+They revamped it recently and I haven't visited it since, 
+but we went every year back in middle school!
 
 
 **Museums**
+- [Anthropology Musem](https://maps.app.goo.gl/ADFK14KRNd4u9xoD8).
+If you do one single museum in all your stay, it has to be this one.
+I go almost every time I go to CDMX. That's how much I like it.
+- [Chapultepec Castle](https://maps.app.goo.gl/ZgJxSTh5MgFPYvFdA).
+If you only do two museums, this is the second one.
+Picture this: a freaking castle on top of a hill in the middle of the city's biggest park.
+The architecture is beautiful, the view is obscene. 
+I'm sad I'm writing this instead of walking there.
+- [Los Pinos](https://maps.app.goo.gl/DEWKquF4ZLJi6TsB7).
+This used to be the presidential residence up until 2018.
+It's now open to the public. I think it's worth going for the historical importance,
+even though the exhibitions aren't that great.
+You can get to it by walking along Calzada del Rey 
+towards Section 2.
+- [Museo del Cárcamo de Dolores](https://maps.app.goo.gl/4FtkMsqGxMfpNTkBA). 
+Haven't been but I've heard great things about it.
+- [Museo Tamayo](https://maps.app.goo.gl/7bWMiReTK16URKx46). Another art museum in the zone. 
+Wouldn't go out of my way to go but it's okay.
+- [Modern Art Musem](https://maps.app.goo.gl/uF1qhkqYwhVvn9249). I'm ashamed to say I haven't visited it.
+
+**Food**
+- Generally you're better off going to Polanco or so.
+- [Los Panchos](https://maps.app.goo.gl/c6gHS2YMWZUeyvWX9). Awesome carnitas place.
 
 
-**Others**
+**Avenida Reforma**
+Reforma goes right next to Chapultepec
+and then heads onto downtown.
+At some point, walk through it (or bike&mdash;it's closed to cars on Sundays!).
+Every block has a huge roundabout with a monument or something cool.
+My favourite ones are:
+- [Ángel de la Independencia](https://maps.app.goo.gl/tNYQw761sd6KegFv6).
+Huge monument. You can see it from Chapultepec Castle, but worth checking it out closeby.
+- [Women's monument](https://maps.app.goo.gl/1bUpBEzgc2pG1iaW7).
+It's a bit tricky to get to, but worth it. 
+Feminist monument with names of murdered women and girls in Mexico. 
+- [Caballito](https://maps.app.goo.gl/cxqV494rZSXss4vd9). Almost in downtown. 
+
 
 
 ## Polanco
