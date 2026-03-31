@@ -250,16 +250,32 @@ and [Blend Station](https://maps.app.goo.gl/XEXmZEoknrcpqxZy7)
 
 ## Coyoacán
 
+Used to be a separate town from Mexico City before being absorbed by the growing city.
+The result is a neighbourhood with many things to do but with a distinct "small town" feel to it.
+I really like it.
+
 **Attractions**
+- [Hidalgo garden](https://maps.app.goo.gl/L9FDTidp299hsooMA). 
+Main plaza, full of street vendors and restaurants.
+- [Coyoacán public market](https://maps.app.goo.gl/6FGJoApGoEHUvnXS8).
+Great for souvenirs and to get food.
+Try the smoothies&mdash;my favourite is mamey, a common fruit in Mexico that tastes like heaven.
+- [Artisanal market](https://maps.app.goo.gl/fqub3zt61zN9ZGSf6) for more souvenirs.
+- [Allende garden](https://maps.app.goo.gl/Uwqd7Qa3HE2JF5Az8) across the public market.
+Often has vendors.
 
 
 **Food**
+As with other neighborhoods, just walk around and get whatever calls to you.
+- Get one of the street food corns, specificaly an esquite (just the corn cobs in a nice broth),
+and get it with bone marrow. It slaps.
+- [Café Avellaneda](https://maps.app.goo.gl/gvUWsfC6Mt7d6yu26) for one of the best coffee shops in town.
+- [Ruta de la Seda](https://maps.app.goo.gl/sEDhDyhM271zxNWU7) has amazing breakfast.
 
 
 **Museums**
-
-
-**Others**
+- [Museo Casa Frida Kahlo](https://maps.app.goo.gl/FS5nRsfAfh1eEJh28). 
+The most favourite in the neighbourhood. Gotta get tickets in advance.
 
 
 
