@@ -175,16 +175,38 @@ Feminist monument with names of murdered women and girls in Mexico.
 
 ## Polanco
 
+Fancy area, but heck it is nice.
+
+
 **Attractions**
+- [Polanquito](https://maps.app.goo.gl/m6x35NQPv6i6sqTq6).
+Really nice boujee area with tons of restaurants. Next to Lincoln's park (in link).
+Honestly you can just lose yourself around here and have a great time.
+- [El Péndulo](https://maps.app.goo.gl/C27Maj6QnKwha35D7). 
+Bookshop with restaurant and coffeeshop included.
+Worth going there: really nice inside!
+- [Pasaje Polanco](https://maps.app.goo.gl/DsBj9odpB4z1Twit7).
+Hard to describe, but worth going.
+- Walk along Avenida Masaryk. It's like Robson Street meets Alberni?
+- [Parque América](https://maps.app.goo.gl/orHEttU5R2AUmD9G9)
+(for the continent, not the country!).
+Horacio is a nice street to walk around.
+- [Antara](https://maps.app.goo.gl/25Du1UGurD4abyzL6) if you want to go to a mall.
+This one is nice&mdash;used to go all the time in high school.
 
 
 **Food**
+So many options. Just pick whatever looks tasty to you.
+I like [Maque](https://maps.app.goo.gl/CNmQsxSgY8oDf77w5) 
+for breakfast (their conchas are otherwordly),
+[Matisse](https://maps.app.goo.gl/gR1tvLC5ffed9nph6) for even more conchas,
+and [El Moro](https://maps.app.goo.gl/C1hTnxYpgihPpGQV9) for churros.
 
 
 **Museums**
-
-
-**Others**
+- [Soumaya](https://maps.app.goo.gl/akVWi63DWvQ5eEwm9). 
+The building is pretty iconic.
+- People don't go to Polanco for museumsI don't think.
 
 
 ## Condesa / Roma
