@@ -222,8 +222,10 @@ This is a great area to just lose yourself and explore.
 - Amsterdam Street is a circuitwith tons of restaurants (and great for running too).
 Worth exploring.
 - [Another Péndulo](https://maps.app.goo.gl/EQagK8fptGpRBmeX6).
-- [Casa Tomada](https://maps.app.goo.gl/MmtJqUJdxBDqRPJL9). Great library.
-- [FCE Bella Época](https://maps.app.goo.gl/bPK9DpJwRNgpkjjB7). Another awesome library.
+- [Casa Tomada](https://maps.app.goo.gl/MmtJqUJdxBDqRPJL9). Great bookstore.
+- [FCE Bella Época](https://maps.app.goo.gl/bPK9DpJwRNgpkjjB7). Another awesome bookstore.
+- [Librería La Moraleja](https://maps.app.goo.gl/DxyQxb7T2gyH9U5U6). Yet another cool bookstore.
+There seems to be a pattern here.
 - [Fuente de Cibeles](https://maps.app.goo.gl/iYUo5mCgQMPdyp1z8). Fountain, nice.
 
 **Food**
@@ -284,9 +286,18 @@ The most favourite in the neighbourhood. Gotta get tickets in advance.
 ## Others
 
 **Tacos:**
-There are many options around. Generally if you see something that looks tasty, go for it.
-When in doubt, I like [El Califa](https://maps.app.goo.gl/gL3uncfqkRbXJxnz6)&mdash;they
+- There are many options around. Generally if you see something that looks tasty, go for it.
+- When in doubt, I like [El Califa](https://maps.app.goo.gl/gL3uncfqkRbXJxnz6)&mdash;they
 have multiple locations around town and their vegan options are amazing.
+- My favourite pastor tacos are [these](https://maps.app.goo.gl/PmrdebNkedMCooUE8). 
+They are far away and no one in that area speaks English.
+
+
+**Street food:**
+- Tamales. You can get them as street food from bicycle-style vendors.
+They usually also have an awesome beverage called *atole* (ah-toe-leh),
+also made with nixtamal corn.
+- Tacos. These exist. Be careful about stomach bugs. Only go to busy places.
 
 **Specialty coffee shops:**
 Not included above:
