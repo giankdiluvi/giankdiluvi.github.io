@@ -20,7 +20,8 @@ working as a research assistant for
 [Manuel Mendoza](https://facultad.itam.mx/en/facultad/manuel-mendoza-ramirez).
 Check [this webpage](./quickcounts) if you're interested.
 
-In my free time, I enjoy running and road cycling around Vancouver.
+In my free time, I enjoy running and road cycling around Vancouver,
+as well as [speedcubing](https://www.worldcubeassociation.org/persons/2012DILU01).
 I also like reading;
 recently, I'm reading a lot of
 contemporary female Latin American writers&mdash;thanks
