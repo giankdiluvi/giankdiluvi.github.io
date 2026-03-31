@@ -211,6 +211,45 @@ The building is pretty iconic.
 
 ## Condesa / Roma
 
+Gentrified as heck but if you go you'll see why people want to move here.
+Really nice area, naturey but with many things to do. 
+Consider staying here!
+This is a great area to just lose yourself and explore.
+
+**Attractions**
+- [Parque México](https://maps.app.goo.gl/8eRqzFgcp7wmE4619) and
+[Parque España](https://maps.app.goo.gl/2LjTbnU8f49B63YU6). Nice parks to walk around.
+- Amsterdam Street is a circuitwith tons of restaurants (and great for running too).
+Worth exploring.
+- [Another Péndulo](https://maps.app.goo.gl/EQagK8fptGpRBmeX6).
+- [Casa Tomada](https://maps.app.goo.gl/MmtJqUJdxBDqRPJL9). Great library.
+- [FCE Bella Época](https://maps.app.goo.gl/bPK9DpJwRNgpkjjB7). Another awesome library.
+- [Fuente de Cibeles](https://maps.app.goo.gl/iYUo5mCgQMPdyp1z8). Fountain, nice.
+
+**Food**
+Difficult to have a comprehensive list.
+Like Polanquito, just walk around and get what seems tastiest to you&mdash;you can't go wrong.
+- [Santas conchas](https://maps.app.goo.gl/fHJuJErCMehxubQ97) is all about conchas.
+Have I mentioned that I love conchas? It's the best baked good ever made.
+- This neighborhood has the most specialty coffee shops in town. I like, in order:
+[Cardinal](https://maps.app.goo.gl/X8ivtKthFH3iioGX6),
+[Café Memorias de un Barista](https://maps.app.goo.gl/nxvhJEL9S2mRGyCP6),
+[Quentin](https://maps.app.goo.gl/dJtiP2dCFEMyobBr8), 
+yet [another Quentin](https://maps.app.goo.gl/Xdeu85d8ytbzLsxu7),
+[Chiquitito](https://maps.app.goo.gl/Tjui2tttNrjRXiSbA),
+[Almanegra](https://maps.app.goo.gl/DxYosJ29jqofpGHX7),
+[Buna](https://maps.app.goo.gl/JZBQ3Eo1Xfub8zEm7),
+and [Blend Station](https://maps.app.goo.gl/XEXmZEoknrcpqxZy7)
+
+
+**Museums**
+- [Casa Guillermo Tovar](https://maps.app.goo.gl/vEjmg6atyMqLpjBy6). Old house turned museum. Cute.
+
+
+
+
+## Coyoacán
+
 **Attractions**
 
 
@@ -221,6 +260,8 @@ The building is pretty iconic.
 
 
 **Others**
+
+
 
 
 ## Lomas
