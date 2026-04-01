@@ -70,7 +70,7 @@ The bullet hole is still there!
 
 
 **Museums**
-- Too many to count, but here are a few that I like
+Too many to count, but here are a few that I like:
 - [Templo Mayor Museum](https://maps.app.goo.gl/9A76U5rVZtAHpzDZ9).
 This used to be the Aztec's main temple. 
 You can see it from above without going into the museum,
@@ -86,16 +86,18 @@ Never gone but man now I kinda wanna.
 
 
 **Possible schedule**
-- Take the Metrobus from Auditorio. 
+- Take the Metrobus from Auditorio (double decker). 
 If you get a spot at the top, you'll enjoy Reforma Avenue in all its glory.
-- Start at Bellas Artes and walk down Av. 5 de mayo (pedestrian-only street) towards Zócalo.
+- Start at Bellas Artes and walk down Av. Francisco I Madero (pedestrian-only street) towards Zócalo.
 - Have breakfast at El Cardenal.
 - Walk around Zócalo. You can also go into the cathedral.
 - Go to Templo Mayor museum.
+- Hit Colegio San Ildefonso.
 - Walk towards Donceles and explore the second-hand bookstores.
 - Go to Palacio de Minería, MUNAL, and the postal palace.
 - Head back to Bellas Artes and walk along Alameda.
 - Cross Reforma and go to the Monumento a la Revolución.
+- Take the Metrobus back to Auditorio.
 
 
 ## Chapultepec
@@ -103,7 +105,11 @@ If you get a spot at the top, you'll enjoy Reforma Avenue in all its glory.
 More than a neighborhood it's like Mexico City's Stanley Park or Central Park.
 But bigger, with more things to do and places to explore.
 If not the whole day, it's at least worth spending a half day exploring it.
-It's split into four sections. Sections 1 and 2 are the most popular ones.
+It's split into four sections. Sections 1 and 2 are the most popular ones
+and all the stuff below is in one or the other.
+
+I recommend you start at a section, do it in its entirety, then head to the other
+(or split it by days).
 
 Note: if you want to run in CDMX, stay close to Chapultepec.
 It's beautiful and running would be an awesome way to explore it.
@@ -111,16 +117,18 @@ It's beautiful and running would be an awesome way to explore it.
 
 **Attractions**
 - [Altar a la Patria](https://maps.app.goo.gl/Yc65JF1j4J6dP9uC8).
-Monument honoring the children who fought against the US invasion in the 1840's.
-- [Porrúa Library](https://maps.app.goo.gl/64gK6a7fMapXjGNc7). 
+Monument honoring the youth military cadets who fought against the US invasion in the 1840's.
+- [Porrúa bookstore](https://maps.app.goo.gl/64gK6a7fMapXjGNc7). 
 Nice one, has a good selection of books and overlooks the lake.
 - [CDMX letters](https://maps.app.goo.gl/MPoh4T91egPN4oKJ9) by the lake.
 Beautiful view of Polanco in the background. 
-You can also rent a swan boat for the lake!
-- There are many streets around Section 1 of Chapultepec. 
+You can also rent a swan boat to go in the lake!
+- There are many streets within Section 1 of Chapultepec. 
 I like Calzada del Rey as well as the circle loop (Gran Av. / Heroico Colegio Militar).
 The area close to the lake has tons of souvenir street vendors.
 - [Nezahualcóyotl Fountain](https://maps.app.goo.gl/4XLRuvWVAdYjrks66). Nice monument.
+- [Floating bridge 1](https://maps.app.goo.gl/oJNATsqctBcK3pbF6). 
+Takes you from Section 1 (Los Pinos) to Section 2 (Av de los compositores).
 - [Lago mayor](https://maps.app.goo.gl/DB5N2wu3d7MaBPBV8). Big lake in the section 2.
 You can buy food to feed the ducks!
 - [Xochipilli Fountain](https://maps.app.goo.gl/eycUp1uziSAuoafP6).
@@ -130,6 +138,13 @@ Who would think there'd be not one but two beautiful fountains in this park?
 - [Aztlán](https://maps.app.goo.gl/cBrRnHAia1TbKx7s6). Attractions park.
 They revamped it recently and I haven't visited it since, 
 but we went every year back in middle school!
+- [Floating bridge 2](https://maps.app.goo.gl/xjkcxFjDCA64AeoD6).
+Takes you from Section 2 (Lago mayor) to Auditorio (Jardín Escénico).
+- [Jardín Escénico](https://maps.app.goo.gl/KjvBFxuAAJuM8MJK9), 
+a nice garden with a [cute coffeeshop](https://maps.app.goo.gl/ExdBUnJUx7F6jn946).
+- [Auditorio Nacional](https://maps.app.goo.gl/dQFpJLke65anbQoo8). Concert venue.
+Really nice building, though! You can take metrobus to downtown.
+There's also a subway station here.
 
 
 **Museums**
