@@ -30,11 +30,12 @@ mainly to recommendations from my wife [Sarah](https://sarahrevilla.github.io/).
 
 ## Research interests
 
-I am mostly interested in developing algorithms for Bayesian inference
-over discrete variables. 
-This includes general-purpose methods for this setting
-but also specialized algorithms for specific types of discrete structures,
-such as directed acyclic graphs in causal discovery.
+I am mostly interested in Bayesian methods and modelling.
+My master's and early PhD research broadened our ability to 
+estimate Bayesian models with some common dreadful traits: 
+multimodality, heavy-tailedness, and discrete parameters.
+More recently, I am working on developing novel Bayesian item response theory models 
+to measure the impact of classroom interventions on student outcomes.
 
 I am also interested in statistical education,
 and particularly in finding ways to improve and expand
