@@ -251,6 +251,7 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 - TA trainer, department of statistics @ UBC, 2021&mdash;2024
 
 **TAing**:
+- [Head TA] STAT 200 (introductory statistics), Summer 2026 @ UBC
 - STAT 450 (statistical consulting), Spring 2026 @ UBC
 - DSCI 100 (intro to data science), Spring 2026 @ UBC
 - STAT 306 (linear models), Fall 2025 @ UBC
