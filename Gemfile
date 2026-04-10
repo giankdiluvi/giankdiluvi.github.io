@@ -12,10 +12,15 @@ source "https://rubygems.org"
 gem "reverie", "~> 1.0.1"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
- gem "github-pages", "~> 219", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-commonmark-ghpages"
+  gem "jemoji"
+  gem "jekyll-paginate" 
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -29,3 +34,9 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick", "~> 1.8"
+
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+gem "liquid", "~> 4.0.4"
