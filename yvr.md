@@ -225,15 +225,15 @@ Prototype has the biggest selection for in-house brewing.
 If you can, go to their Great Northern Way location; it's beautiful.
 - Funk Coffee House in downtown is pretty cool and carries
 House of Funk beans. Great for working.
+- Single V in Burnaby. They frequently carry Wilton Benitez beans.
 - Modus on Broadway. Small shop but don't be fooled: their coffee is top notch.
+- R Ki in Richmond carries some great beans. 
+You can also prepare your own pourover.
 - Analog, Pallet, or Kafka if you're in Downtown. 
 - Timbertrain (the one in Port Moody is like a weird real estate exposition).
 - Agro is the cheapest good quality specialty coffee roaster 
 but I've never been to their coffee shop.
 
-Specialty coffee shops I haven't gone to but want to:
-Single V in Burnaby (got a beautiful Wilton Benitez from them).
-Sunny M and R Ki in Richmond.
 
 Check out [Vancouver Coffee Snob](https://www.vancouvercoffeesnob.com/)
 for more recommendations.
@@ -269,8 +269,9 @@ Not great for people with dietary restrictions, though.
 - Rain or Shine. My favorite in town due to its consistency.
 I often find myself trying new flavors and really liking them.
 - Earnest. Their cookies and cream is my favorite.
-- Mister on Robson is more of an artisanal ice cream but it's great.
-- La Glace. Their strawberry shortcake is otherwordly.
+- Mister on Robson. Kinda hit and miss, 
+but their collaborations with Paragon matcha are really good.
+- La Glace in Kits.
 
 **Mexican**.
 Listen. If you want the real Mexican experience,
