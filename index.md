@@ -35,7 +35,7 @@ My master's and early PhD research broadened our ability to
 estimate Bayesian models with some common dreadful traits: 
 multimodality, heavy-tailedness, and discrete parameters.
 More recently, I am working on developing causal Bayesian item response theory models 
-to measure the impact of classroom interventions on student outcomes.
+to measure the impact of in-class activities on student outcomes.
 
 I am also interested in statistical education,
 and particularly in finding ways to improve and expand
@@ -251,6 +251,8 @@ teach Bayesian inference has been accepted at [ICOTS](https://icots.info/11/)!
 - TA trainer, department of statistics @ UBC, 2021&mdash;2024
 
 **TAing**:
+- [Head TA] STAT 306 (linear models), Fall 2026 @ UBC
+- DSCI 200 (data acquisition, exploration, and management), Fall 2026 @ UBC
 - [Head TA] STAT 200 (introductory statistics), Summer 2026 @ UBC
 - STAT 450 (statistical consulting), Spring 2026 @ UBC
 - DSCI 100 (intro to data science), Spring 2026 @ UBC
