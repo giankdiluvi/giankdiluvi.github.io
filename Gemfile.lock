@@ -21,7 +21,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.3.6)
+    concurrent-ruby (1.3.7)
     configliere (0.4.22)
       highline (= 1.5.2)
       multi_json (~> 1.10.1)
@@ -256,7 +256,7 @@ CHECKSUMS
   bigdecimal (4.1.1) sha256=1c09efab961da45203c8316b0cdaec0ff391dfadb952dd459584b63ebf8054ca
   colorator (1.1.0) sha256=e2f85daf57af47d740db2a32191d1bdfb0f6503a0dfbc8327d0c9154d5ddfc38
   commonmarker (0.17.13) sha256=6931ab3c9fe8a74a55d5da7ef6d2755c87bcdedcbeb331ae9db643700faab2de
-  concurrent-ruby (1.3.6) sha256=6b56837e1e7e5292f9864f34b69c5a2cbc75c0cf5338f1ce9903d10fa762d5ab
+  concurrent-ruby (1.3.7) sha256=4412caec3a5ea2e5fdc52076724c071a81f2c0593d83b2ac8cbb8ca63b3151b0
   configliere (0.4.22) sha256=94252eb03bac389b8a9164cf513fcdb0471cbe36368e6a7d8f4f48eecb3d266e
   connection_pool (3.0.2) sha256=33fff5ba71a12d2aa26cb72b1db8bba2a1a01823559fb01d29eb74c286e62e0a
   csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
